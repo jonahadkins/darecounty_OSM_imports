@@ -4,7 +4,9 @@ Repo for getting Dare County, NC buildings into OSM
 
 Dare County, North Carolina GIS department has provided building footprints for importing into OpenStreetMap. The data is provided as is, with compatible license.  
 
----  
+---  
+[!](https://raw.githubusercontent.com/jonahadkins/darecounty_OSM_imports/master/darecounty.PNG)
+
 ### Import Notes  
 
 18,430 Total Buildings  
