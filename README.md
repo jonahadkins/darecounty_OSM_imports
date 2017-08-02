@@ -9,8 +9,7 @@ Dare County, North Carolina GIS department has provided building footprints for 
 
 ### Import Notes  
 
-18,430 Total Buildings  
-*  with Addresses - % 
+18,430 Total Buildings 
 
 Imports will be done through the dedicated user account [jonahadkins_dare_import](http://www.openstreetmap.org/user/jonahadkins_dare_imports) and will be done through OSM Import Guidelines - [See Wiki](https://wiki.openstreetmap.org/wiki/Dare_County_Building_Import)  
 
