@@ -1,0 +1,3964 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-116419' action='modify' lat='36.03732126859' lon='-75.67069924954' />
+  <node id='-116420' action='modify' lat='36.03727482414' lon='-75.67081249786' />
+  <node id='-116421' action='modify' lat='36.03734332665' lon='-75.67085508642' />
+  <node id='-116422' action='modify' lat='36.03738977114' lon='-75.67074183803' />
+  <node id='-116423' action='modify' lat='36.03577473305' lon='-75.66972697393' />
+  <node id='-116424' action='modify' lat='36.03570830571' lon='-75.66989601069' />
+  <node id='-116425' action='modify' lat='36.03577970448' lon='-75.6699385435' />
+  <node id='-116426' action='modify' lat='36.03584613188' lon='-75.66976950663' />
+  <node id='-116427' action='modify' lat='36.03987877422' lon='-75.67440100946' />
+  <node id='-116428' action='modify' lat='36.03983884707' lon='-75.67449345385' />
+  <node id='-116429' action='modify' lat='36.0399753393' lon='-75.67458282695' />
+  <node id='-116430' action='modify' lat='36.04001526649' lon='-75.67449038134' />
+  <node id='-116431' action='modify' lat='36.03967261579' lon='-75.67298050422' />
+  <node id='-116432' action='modify' lat='36.03964716074' lon='-75.6729661295' />
+  <node id='-116433' action='modify' lat='36.03965300277' lon='-75.67295044725' />
+  <node id='-116434' action='modify' lat='36.03957106559' lon='-75.67290417672' />
+  <node id='-116435' action='modify' lat='36.03954314721' lon='-75.672979127' />
+  <node id='-116436' action='modify' lat='36.03955478305' lon='-75.67298569823' />
+  <node id='-116437' action='modify' lat='36.03954731247' lon='-75.67300575346' />
+  <node id='-116438' action='modify' lat='36.03964306882' lon='-75.67305982757' />
+  <node id='-116439' action='modify' lat='36.04016789682' lon='-75.67424967565' />
+  <node id='-116440' action='modify' lat='36.04008278853' lon='-75.67419736991' />
+  <node id='-116441' action='modify' lat='36.04007097939' lon='-75.67422650336' />
+  <node id='-116442' action='modify' lat='36.04006618567' lon='-75.67422355676' />
+  <node id='-116443' action='modify' lat='36.04003286382' lon='-75.67430575495' />
+  <node id='-116444' action='modify' lat='36.04007866126' lon='-75.67433390026' />
+  <node id='-116445' action='modify' lat='36.04006876941' lon='-75.67435830235' />
+  <node id='-116446' action='modify' lat='36.04009298006' lon='-75.67437318194' />
+  <node id='-116447' action='modify' lat='36.04010367216' lon='-75.67434680599' />
+  <node id='-116448' action='modify' lat='36.04012484257' lon='-75.67435981579' />
+  <node id='-116449' action='modify' lat='36.04027844525' lon='-75.67602367942' />
+  <node id='-116450' action='modify' lat='36.04024360486' lon='-75.67610539226' />
+  <node id='-116451' action='modify' lat='36.04036681145' lon='-75.67618503486' />
+  <node id='-116452' action='modify' lat='36.04040165189' lon='-75.67610332192' />
+  <node id='-116453' action='modify' lat='36.03996460966' lon='-75.67412186776' />
+  <node id='-116454' action='modify' lat='36.03992033608' lon='-75.6742300106' />
+  <node id='-116455' action='modify' lat='36.03999884618' lon='-75.67427873908' />
+  <node id='-116456' action='modify' lat='36.0400431198' lon='-75.67417059615' />
+  <node id='-116457' action='modify' lat='36.04095071225' lon='-75.67432525252' />
+  <node id='-116458' action='modify' lat='36.04093693576' lon='-75.67431676185' />
+  <node id='-116459' action='modify' lat='36.04094660205' lon='-75.67429298503' />
+  <node id='-116460' action='modify' lat='36.04091867946' lon='-75.67427577579' />
+  <node id='-116461' action='modify' lat='36.04090979667' lon='-75.67429762605' />
+  <node id='-116462' action='modify' lat='36.04087630791' lon='-75.67427698688' />
+  <node id='-116463' action='modify' lat='36.04085542029' lon='-75.67432836865' />
+  <node id='-116464' action='modify' lat='36.04085096387' lon='-75.67432562239' />
+  <node id='-116465' action='modify' lat='36.04084327451' lon='-75.67434453876' />
+  <node id='-116466' action='modify' lat='36.04084748974' lon='-75.6743471373' />
+  <node id='-116467' action='modify' lat='36.04083518736' lon='-75.67437739946' />
+  <node id='-116468' action='modify' lat='36.04087044342' lon='-75.67439912714' />
+  <node id='-116469' action='modify' lat='36.040866084' lon='-75.67440985068' />
+  <node id='-116470' action='modify' lat='36.04090625691' lon='-75.67443460988' />
+  <node id='-116471' action='modify' lat='36.03906958725' lon='-75.6748396756' />
+  <node id='-116472' action='modify' lat='36.03905134399' lon='-75.67482825605' />
+  <node id='-116473' action='modify' lat='36.03905426609' lon='-75.67482117945' />
+  <node id='-116474' action='modify' lat='36.03902838001' lon='-75.67480497451' />
+  <node id='-116475' action='modify' lat='36.0390264562' lon='-75.67480963387' />
+  <node id='-116476' action='modify' lat='36.03902345725' lon='-75.67480775684' />
+  <node id='-116477' action='modify' lat='36.03902614251' lon='-75.67480125517' />
+  <node id='-116478' action='modify' lat='36.03899943443' lon='-75.67478453566' />
+  <node id='-116479' action='modify' lat='36.03899681861' lon='-75.67479087126' />
+  <node id='-116480' action='modify' lat='36.03898752265' lon='-75.67478505155' />
+  <node id='-116481' action='modify' lat='36.0389648032' lon='-75.67484007272' />
+  <node id='-116482' action='modify' lat='36.03894005653' lon='-75.67482458134' />
+  <node id='-116483' action='modify' lat='36.03892253994' lon='-75.6748670002' />
+  <node id='-116484' action='modify' lat='36.03903041889' lon='-75.67493453241' />
+  <node id='-116485' action='modify' lat='36.04022405782' lon='-75.67618957321' />
+  <node id='-116486' action='modify' lat='36.04019066967' lon='-75.67626987922' />
+  <node id='-116487' action='modify' lat='36.04031375978' lon='-75.67634746496' />
+  <node id='-116488' action='modify' lat='36.04034714795' lon='-75.67626715775' />
+  <node id='-116489' action='modify' lat='36.04025314438' lon='-75.67470372193' />
+  <node id='-116490' action='modify' lat='36.04022626319' lon='-75.67468604226' />
+  <node id='-116491' action='modify' lat='36.04024793298' lon='-75.67463609212' />
+  <node id='-116492' action='modify' lat='36.04016759972' lon='-75.67458325692' />
+  <node id='-116493' action='modify' lat='36.04012511123' lon='-75.67468119448' />
+  <node id='-116494' action='modify' lat='36.04016512634' lon='-75.67470751232' />
+  <node id='-116495' action='modify' lat='36.04016298132' lon='-75.67471245956' />
+  <node id='-116496' action='modify' lat='36.0401983696' lon='-75.67473573398' />
+  <node id='-116497' action='modify' lat='36.04020113834' lon='-75.67472935089' />
+  <node id='-116498' action='modify' lat='36.04023294931' lon='-75.67475027248' />
+  <node id='-116499' action='modify' lat='36.04100708481' lon='-75.6742917816' />
+  <node id='-116500' action='modify' lat='36.04095210282' lon='-75.67442696661' />
+  <node id='-116501' action='modify' lat='36.04102803045' lon='-75.674473785' />
+  <node id='-116502' action='modify' lat='36.04108301342' lon='-75.67433860096' />
+  <node id='-116503' action='modify' lat='36.04016480884' lon='-75.67629430788' />
+  <node id='-116504' action='modify' lat='36.04012845692' lon='-75.67638367849' />
+  <node id='-116505' action='modify' lat='36.04025066859' lon='-75.67645904107' />
+  <node id='-116506' action='modify' lat='36.04028702056' lon='-75.67636967036' />
+  <node id='-116507' action='modify' lat='36.04047083886' lon='-75.67598223938' />
+  <node id='-116508' action='modify' lat='36.04044614592' lon='-75.6759663632' />
+  <node id='-116509' action='modify' lat='36.04046501416' lon='-75.67592187169' />
+  <node id='-116510' action='modify' lat='36.04038544313' lon='-75.67587071355' />
+  <node id='-116511' action='modify' lat='36.04036728419' lon='-75.6759135325' />
+  <node id='-116512' action='modify' lat='36.04035711845' lon='-75.67590699675' />
+  <node id='-116513' action='modify' lat='36.04033652239' lon='-75.67595556327' />
+  <node id='-116514' action='modify' lat='36.04045095205' lon='-75.67602913342' />
+  <node id='-116515' action='modify' lat='36.04010132677' lon='-75.67475480156' />
+  <node id='-116516' action='modify' lat='36.04005937344' lon='-75.67485487976' />
+  <node id='-116517' action='modify' lat='36.04015436969' lon='-75.67491525325' />
+  <node id='-116518' action='modify' lat='36.04019632307' lon='-75.67481517496' />
+  <node id='-116519' action='modify' lat='36.03579375509' lon='-75.66936987287' />
+  <node id='-116520' action='modify' lat='36.0357165481' lon='-75.66932341377' />
+  <node id='-116521' action='modify' lat='36.03572639634' lon='-75.66929860668' />
+  <node id='-116522' action='modify' lat='36.03565545112' lon='-75.66925591582' />
+  <node id='-116523' action='modify' lat='36.03564573878' lon='-75.66928038198' />
+  <node id='-116524' action='modify' lat='36.03561505787' lon='-75.66926192062' />
+  <node id='-116525' action='modify' lat='36.03562472885' lon='-75.66923755832' />
+  <node id='-116526' action='modify' lat='36.03558118055' lon='-75.669211354' />
+  <node id='-116527' action='modify' lat='36.03552646236' lon='-75.66934919398' />
+  <node id='-116528' action='modify' lat='36.03556387628' lon='-75.66937170711' />
+  <node id='-116529' action='modify' lat='36.03555532085' lon='-75.66939326097' />
+  <node id='-116530' action='modify' lat='36.03558869807' lon='-75.66941334516' />
+  <node id='-116531' action='modify' lat='36.03559801723' lon='-75.66938987008' />
+  <node id='-116532' action='modify' lat='36.03568649356' lon='-75.66944311013' />
+  <node id='-116533' action='modify' lat='36.03567713892' lon='-75.6694666733' />
+  <node id='-116534' action='modify' lat='36.03573938636' lon='-75.6695041314' />
+  <node id='-116535' action='modify' lat='36.03574953835' lon='-75.66947855679' />
+  <node id='-116536' action='modify' lat='36.03579500182' lon='-75.66950591455' />
+  <node id='-116537' action='modify' lat='36.03584826368' lon='-75.66937174053' />
+  <node id='-116538' action='modify' lat='36.03580366657' lon='-75.66934490437' />
+  <node id='-116539' action='modify' lat='36.03912991282' lon='-75.67468945659' />
+  <node id='-116540' action='modify' lat='36.03907941519' lon='-75.67465228984' />
+  <node id='-116541' action='modify' lat='36.03907748167' lon='-75.67465675753' />
+  <node id='-116542' action='modify' lat='36.03905147029' lon='-75.67463969399' />
+  <node id='-116543' action='modify' lat='36.03903254419' lon='-75.67468343353' />
+  <node id='-116544' action='modify' lat='36.03900913124' lon='-75.6746680759' />
+  <node id='-116545' action='modify' lat='36.03898606411' lon='-75.67472138717' />
+  <node id='-116546' action='modify' lat='36.03908734946' lon='-75.67478782672' />
+  <node id='-116547' action='modify' lat='36.04001086357' lon='-75.67584413451' />
+  <node id='-116548' action='modify' lat='36.03997146521' lon='-75.67593480885' />
+  <node id='-116549' action='modify' lat='36.04009290511' lon='-75.67601480581' />
+  <node id='-116550' action='modify' lat='36.04013230442' lon='-75.67592413134' />
+  <node id='-116551' action='modify' lat='36.04110108597' lon='-75.67441309111' />
+  <node id='-116552' action='modify' lat='36.04106583367' lon='-75.67449914614' />
+  <node id='-116553' action='modify' lat='36.04107069519' lon='-75.6745021655' />
+  <node id='-116554' action='modify' lat='36.04106238054' lon='-75.67452246119' />
+  <node id='-116555' action='modify' lat='36.0411220305' lon='-75.67455950873' />
+  <node id='-116556' action='modify' lat='36.04112972031' lon='-75.67454073997' />
+  <node id='-116557' action='modify' lat='36.04113528445' lon='-75.67454419556' />
+  <node id='-116558' action='modify' lat='36.04117116253' lon='-75.67445661349' />
+  <node id='-116559' action='modify' lat='36.03922375052' lon='-75.67459821512' />
+  <node id='-116560' action='modify' lat='36.03918138609' lon='-75.67457132729' />
+  <node id='-116561' action='modify' lat='36.0391957981' lon='-75.67453690393' />
+  <node id='-116562' action='modify' lat='36.03910056615' lon='-75.67447646138' />
+  <node id='-116563' action='modify' lat='36.03905663597' lon='-75.67458139435' />
+  <node id='-116564' action='modify' lat='36.03919423134' lon='-75.67466872378' />
+  <node id='-116565' action='modify' lat='36.04003680252' lon='-75.67497394511' />
+  <node id='-116566' action='modify' lat='36.04003062926' lon='-75.67497007609' />
+  <node id='-116567' action='modify' lat='36.04002546062' lon='-75.67498257829' />
+  <node id='-116568' action='modify' lat='36.04003209994' lon='-75.67498674008' />
+  <node id='-116569' action='modify' lat='36.04002068805' lon='-75.67501434031' />
+  <node id='-116570' action='modify' lat='36.04010982924' lon='-75.67507021335' />
+  <node id='-116571' action='modify' lat='36.04014763686' lon='-75.67497876574' />
+  <node id='-116572' action='modify' lat='36.04005802959' lon='-75.67492260111' />
+  <node id='-116573' action='modify' lat='36.03998342727' lon='-75.67506898606' />
+  <node id='-116574' action='modify' lat='36.03995188656' lon='-75.67514789705' />
+  <node id='-116575' action='modify' lat='36.04004260197' lon='-75.67520286807' />
+  <node id='-116576' action='modify' lat='36.04007414361' lon='-75.67512395697' />
+  <node id='-116577' action='modify' lat='36.04131321508' lon='-75.67456653399' />
+  <node id='-116578' action='modify' lat='36.04127110342' lon='-75.67454001922' />
+  <node id='-116579' action='modify' lat='36.04128247094' lon='-75.67451264794' />
+  <node id='-116580' action='modify' lat='36.04125103881' lon='-75.67449285751' />
+  <node id='-116581' action='modify' lat='36.04123969333' lon='-75.6745201768' />
+  <node id='-116582' action='modify' lat='36.04121525883' lon='-75.674504791' />
+  <node id='-116583' action='modify' lat='36.04117981657' lon='-75.67459013113' />
+  <node id='-116584' action='modify' lat='36.04127779478' lon='-75.6746518211' />
+  <node id='-116585' action='modify' lat='36.04019777476' lon='-75.67562515423' />
+  <node id='-116586' action='modify' lat='36.0401741891' lon='-75.67561013855' />
+  <node id='-116587' action='modify' lat='36.04019366508' lon='-75.67556376115' />
+  <node id='-116588' action='modify' lat='36.04014502175' lon='-75.67553279017' />
+  <node id='-116589' action='modify' lat='36.04012591415' lon='-75.67557828964' />
+  <node id='-116590' action='modify' lat='36.04012171951' lon='-75.67557561804' />
+  <node id='-116591' action='modify' lat='36.04009554627' lon='-75.67563794263' />
+  <node id='-116592' action='modify' lat='36.04008541257' lon='-75.67563149111' />
+  <node id='-116593' action='modify' lat='36.04007271086' lon='-75.67566173704' />
+  <node id='-116594' action='modify' lat='36.04008314649' lon='-75.67566838152' />
+  <node id='-116595' action='modify' lat='36.04005734585' lon='-75.67572981909' />
+  <node id='-116596' action='modify' lat='36.04013778228' lon='-75.67578103002' />
+  <node id='-116597' action='modify' lat='36.04019539233' lon='-75.67564384808' />
+  <node id='-116598' action='modify' lat='36.04023961983' lon='-75.67567200677' />
+  <node id='-116599' action='modify' lat='36.04026541369' lon='-75.67561058598' />
+  <node id='-116600' action='modify' lat='36.04021687225' lon='-75.67557968069' />
+  <node id='-116601' action='modify' lat='36.03991793327' lon='-75.67522696192' />
+  <node id='-116602' action='modify' lat='36.03988490051' lon='-75.67530655278' />
+  <node id='-116603' action='modify' lat='36.03997423655' lon='-75.67536276443' />
+  <node id='-116604' action='modify' lat='36.04000726934' lon='-75.6752831735' />
+  <node id='-116605' action='modify' lat='36.03927596119' lon='-75.67439536453' />
+  <node id='-116606' action='modify' lat='36.03918605321' lon='-75.67433790451' />
+  <node id='-116607' action='modify' lat='36.03917432552' lon='-75.67436572409' />
+  <node id='-116608' action='modify' lat='36.03917564715' lon='-75.67435759432' />
+  <node id='-116609' action='modify' lat='36.03915342528' lon='-75.67434339229' />
+  <node id='-116610' action='modify' lat='36.03912768022' lon='-75.67440446202' />
+  <node id='-116611' action='modify' lat='36.03913470084' lon='-75.67440894885' />
+  <node id='-116612' action='modify' lat='36.03912500693' lon='-75.67443194349' />
+  <node id='-116613' action='modify' lat='36.03923284815' lon='-75.67450086363' />
+  <node id='-116614' action='modify' lat='36.0398484855' lon='-75.6753260387' />
+  <node id='-116615' action='modify' lat='36.03981386296' lon='-75.67540801891' />
+  <node id='-116616' action='modify' lat='36.03993747491' lon='-75.67548716256' />
+  <node id='-116617' action='modify' lat='36.03997209754' lon='-75.67540518336' />
+  <node id='-116618' action='modify' lat='36.04018280017' lon='-75.67540078633' />
+  <node id='-116619' action='modify' lat='36.04014882162' lon='-75.67548095045' />
+  <node id='-116620' action='modify' lat='36.04027242772' lon='-75.67556037901' />
+  <node id='-116621' action='modify' lat='36.04030640632' lon='-75.6754802148' />
+  <node id='-116622' action='modify' lat='36.04143232985' lon='-75.67460152333' />
+  <node id='-116623' action='modify' lat='36.04142179348' lon='-75.67459479087' />
+  <node id='-116624' action='modify' lat='36.04141685674' lon='-75.67460650207' />
+  <node id='-116625' action='modify' lat='36.04140841518' lon='-75.67460424332' />
+  <node id='-116626' action='modify' lat='36.04140210858' lon='-75.67460021321' />
+  <node id='-116627' action='modify' lat='36.04140884274' lon='-75.67458423523' />
+  <node id='-116628' action='modify' lat='36.04136992388' lon='-75.67455936411' />
+  <node id='-116629' action='modify' lat='36.04136433408' lon='-75.67457262562' />
+  <node id='-116630' action='modify' lat='36.04134750303' lon='-75.67456187036' />
+  <node id='-116631' action='modify' lat='36.04130237117' lon='-75.6746689421' />
+  <node id='-116632' action='modify' lat='36.04138390724' lon='-75.67472104675' />
+  <node id='-116633' action='modify' lat='36.0397822162' lon='-75.67551372911' />
+  <node id='-116634' action='modify' lat='36.0397495926' lon='-75.67559182612' />
+  <node id='-116635' action='modify' lat='36.03986056122' lon='-75.67566210269' />
+  <node id='-116636' action='modify' lat='36.03989318577' lon='-75.67558400556' />
+  <node id='-116637' action='modify' lat='36.04026753365' lon='-75.67523930278' />
+  <node id='-116638' action='modify' lat='36.04022879992' lon='-75.67533075751' />
+  <node id='-116639' action='modify' lat='36.04034483257' lon='-75.67540526097' />
+  <node id='-116640' action='modify' lat='36.04038356634' lon='-75.67531380615' />
+  <node id='-116641' action='modify' lat='36.03931035745' lon='-75.67422363116' />
+  <node id='-116642' action='modify' lat='36.03930084915' lon='-75.67421753158' />
+  <node id='-116643' action='modify' lat='36.03930280716' lon='-75.67421290408' />
+  <node id='-116644' action='modify' lat='36.03923284586' lon='-75.67416802359' />
+  <node id='-116645' action='modify' lat='36.0391809764' lon='-75.6742905997' />
+  <node id='-116646' action='modify' lat='36.03925094961' lon='-75.67433548866' />
+  <node id='-116647' action='modify' lat='36.03929117679' lon='-75.67424042215' />
+  <node id='-116648' action='modify' lat='36.03930067407' lon='-75.67424651442' />
+  <node id='-116649' action='modify' lat='36.04149295885' lon='-75.67458574761' />
+  <node id='-116650' action='modify' lat='36.04143372791' lon='-75.67472800815' />
+  <node id='-116651' action='modify' lat='36.04152556022' lon='-75.67478597595' />
+  <node id='-116652' action='modify' lat='36.04158479122' lon='-75.67464371529' />
+  <node id='-116653' action='modify' lat='36.03931227259' lon='-75.67402575135' />
+  <node id='-116654' action='modify' lat='36.03926877169' lon='-75.67412653126' />
+  <node id='-116655' action='modify' lat='36.03937224905' lon='-75.67419424443' />
+  <node id='-116656' action='modify' lat='36.03941575001' lon='-75.67409346442' />
+  <node id='-116657' action='modify' lat='36.03970798713' lon='-75.67565132058' />
+  <node id='-116658' action='modify' lat='36.0396721338' lon='-75.6757362625' />
+  <node id='-116659' action='modify' lat='36.03979457604' lon='-75.67581461423' />
+  <node id='-116660' action='modify' lat='36.0398304303' lon='-75.67572967108' />
+  <node id='-116661' action='modify' lat='36.04032879227' lon='-75.67505846853' />
+  <node id='-116662' action='modify' lat='36.04027424826' lon='-75.67518349991' />
+  <node id='-116663' action='modify' lat='36.04037640609' lon='-75.67525106317' />
+  <node id='-116664' action='modify' lat='36.04043095019' lon='-75.67512603278' />
+  <node id='-116665' action='modify' lat='36.03968357585' lon='-75.67580054711' />
+  <node id='-116666' action='modify' lat='36.03963857373' lon='-75.67591053622' />
+  <node id='-116667' action='modify' lat='36.03972737646' lon='-75.67596561784' />
+  <node id='-116668' action='modify' lat='36.03977237769' lon='-75.67585562757' />
+  <node id='-116669' action='modify' lat='36.03958027913' lon='-75.67594573238' />
+  <node id='-116670' action='modify' lat='36.03954220272' lon='-75.67603491604' />
+  <node id='-116671' action='modify' lat='36.03966520753' lon='-75.67611452953' />
+  <node id='-116672' action='modify' lat='36.03970328313' lon='-75.67602534692' />
+  <node id='-116673' action='modify' lat='36.04020366791' lon='-75.67262828555' />
+  <node id='-116674' action='modify' lat='36.04017175169' lon='-75.67260937437' />
+  <node id='-116675' action='modify' lat='36.04014503093' lon='-75.67261961768' />
+  <node id='-116676' action='modify' lat='36.04012457414' lon='-75.67267195985' />
+  <node id='-116677' action='modify' lat='36.04011644704' lon='-75.67266714351' />
+  <node id='-116678' action='modify' lat='36.04009600368' lon='-75.67271944955' />
+  <node id='-116679' action='modify' lat='36.04018141997' lon='-75.67277006002' />
+  <node id='-116680' action='modify' lat='36.04020229323' lon='-75.67271665141' />
+  <node id='-116681' action='modify' lat='36.04019212041' lon='-75.67271062378' />
+  <node id='-116682' action='modify' lat='36.04021244821' lon='-75.67265861112' />
+  <node id='-116683' action='modify' lat='36.03936747203' lon='-75.67375828801' />
+  <node id='-116684' action='modify' lat='36.03933417734' lon='-75.67383398595' />
+  <node id='-116685' action='modify' lat='36.03934854811' lon='-75.67384356881' />
+  <node id='-116686' action='modify' lat='36.03934591811' lon='-75.67384954753' />
+  <node id='-116687' action='modify' lat='36.03936428131' lon='-75.67386179247' />
+  <node id='-116688' action='modify' lat='36.03936795668' lon='-75.67385343674' />
+  <node id='-116689' action='modify' lat='36.03942913369' lon='-75.67389423057' />
+  <node id='-116690' action='modify' lat='36.03946985217' lon='-75.67380165485' />
+  <node id='-116691' action='modify' lat='36.03942793106' lon='-75.67377370092' />
+  <node id='-116692' action='modify' lat='36.03941946195' lon='-75.67379295564' />
+  <node id='-116693' action='modify' lat='36.04130664747' lon='-75.67575708065' />
+  <node id='-116694' action='modify' lat='36.04128768558' lon='-75.67574502957' />
+  <node id='-116695' action='modify' lat='36.04130380015' lon='-75.67570658474' />
+  <node id='-116696' action='modify' lat='36.04123484319' lon='-75.67566276521' />
+  <node id='-116697' action='modify' lat='36.04122513044' lon='-75.67568593762' />
+  <node id='-116698' action='modify' lat='36.04121244426' lon='-75.67567787694' />
+  <node id='-116699' action='modify' lat='36.04119711976' lon='-75.67571443711' />
+  <node id='-116700' action='modify' lat='36.04120901224' lon='-75.67572199535' />
+  <node id='-116701' action='modify' lat='36.04119847297' lon='-75.67574713825' />
+  <node id='-116702' action='modify' lat='36.04128718464' lon='-75.67580351361' />
+  <node id='-116703' action='modify' lat='36.04170521991' lon='-75.67463056415' />
+  <node id='-116704' action='modify' lat='36.04167730873' lon='-75.67469657393' />
+  <node id='-116705' action='modify' lat='36.04164791425' lon='-75.67467773075' />
+  <node id='-116706' action='modify' lat='36.0416326158' lon='-75.67471391163' />
+  <node id='-116707' action='modify' lat='36.04160401886' lon='-75.67469557962' />
+  <node id='-116708' action='modify' lat='36.0415586775' lon='-75.67480281016' />
+  <node id='-116709' action='modify' lat='36.04162905702' lon='-75.67484792839' />
+  <node id='-116710' action='modify' lat='36.04164660749' lon='-75.67480642272' />
+  <node id='-116711' action='modify' lat='36.04166520987' lon='-75.67481834857' />
+  <node id='-116712' action='modify' lat='36.04169263397' lon='-75.67475349148' />
+  <node id='-116713' action='modify' lat='36.04168886375' lon='-75.67475107439' />
+  <node id='-116714' action='modify' lat='36.04173358005' lon='-75.67464874382' />
+  <node id='-116715' action='modify' lat='36.03726984666' lon='-75.67064134984' />
+  <node id='-116716' action='modify' lat='36.03720598021' lon='-75.670601812' />
+  <node id='-116717' action='modify' lat='36.0371974548' lon='-75.67062268875' />
+  <node id='-116718' action='modify' lat='36.0371887942' lon='-75.67061732637' />
+  <node id='-116719' action='modify' lat='36.03711478726' lon='-75.67079854503' />
+  <node id='-116720' action='modify' lat='36.03715502837' lon='-75.67082345837' />
+  <node id='-116721' action='modify' lat='36.03714956227' lon='-75.67083684315' />
+  <node id='-116722' action='modify' lat='36.03718414672' lon='-75.67085825298' />
+  <node id='-116723' action='modify' lat='36.03719878501' lon='-75.67082240925' />
+  <node id='-116724' action='modify' lat='36.03720206046' lon='-75.67082443677' />
+  <node id='-116725' action='modify' lat='36.03724808356' lon='-75.67071174223' />
+  <node id='-116726' action='modify' lat='36.03724250949' lon='-75.67070829081' />
+  <node id='-116727' action='modify' lat='36.03931797944' lon='-75.67577906968' />
+  <node id='-116728' action='modify' lat='36.03928208735' lon='-75.67586431362' />
+  <node id='-116729' action='modify' lat='36.0393852258' lon='-75.67593014767' />
+  <node id='-116730' action='modify' lat='36.03942111797' lon='-75.67584490476' />
+  <node id='-116731' action='modify' lat='36.03992903011' lon='-75.67243616135' />
+  <node id='-116732' action='modify' lat='36.0398924173' lon='-75.67252651251' />
+  <node id='-116733' action='modify' lat='36.039961459' lon='-75.67256892729' />
+  <node id='-116734' action='modify' lat='36.03999807184' lon='-75.67247857606' />
+  <node id='-116735' action='modify' lat='36.03948627266' lon='-75.67383247103' />
+  <node id='-116736' action='modify' lat='36.0394533557' lon='-75.67390876301' />
+  <node id='-116737' action='modify' lat='36.03946902329' lon='-75.67391901186' />
+  <node id='-116738' action='modify' lat='36.03946563201' lon='-75.67392687178' />
+  <node id='-116739' action='modify' lat='36.03948169345' lon='-75.67393737752' />
+  <node id='-116740' action='modify' lat='36.03948549357' lon='-75.67392856918' />
+  <node id='-116741' action='modify' lat='36.03955295092' lon='-75.67397269356' />
+  <node id='-116742' action='modify' lat='36.03959255633' lon='-75.67388089982' />
+  <node id='-116743' action='modify' lat='36.0395492857' lon='-75.67385259624' />
+  <node id='-116744' action='modify' lat='36.03954218843' lon='-75.67386904524' />
+  <node id='-116745' action='modify' lat='36.03935514742' lon='-75.67562886352' />
+  <node id='-116746' action='modify' lat='36.03932157511' lon='-75.67570951293' />
+  <node id='-116747' action='modify' lat='36.03940975493' lon='-75.67576516164' />
+  <node id='-116748' action='modify' lat='36.03944332728' lon='-75.67568451216' />
+  <node id='-116749' action='modify' lat='36.04172213205' lon='-75.67476809004' />
+  <node id='-116750' action='modify' lat='36.04167125762' lon='-75.67489361972' />
+  <node id='-116751' action='modify' lat='36.04170354678' lon='-75.67491345943' />
+  <node id='-116752' action='modify' lat='36.04169709674' lon='-75.67492937464' />
+  <node id='-116753' action='modify' lat='36.04171917217' lon='-75.67494293822' />
+  <node id='-116754' action='modify' lat='36.04172588416' lon='-75.67492637597' />
+  <node id='-116755' action='modify' lat='36.04174582921' lon='-75.67493863175' />
+  <node id='-116756' action='modify' lat='36.04179644175' lon='-75.67481374901' />
+  <node id='-116757' action='modify' lat='36.0369879605' lon='-75.67049288157' />
+  <node id='-116758' action='modify' lat='36.03694287564' lon='-75.6706069072' />
+  <node id='-116759' action='modify' lat='36.03701321429' lon='-75.67064906761' />
+  <node id='-116760' action='modify' lat='36.03707033438' lon='-75.67050460616' />
+  <node id='-116761' action='modify' lat='36.03703162596' lon='-75.67048140501' />
+  <node id='-116762' action='modify' lat='36.03701959169' lon='-75.67051184071' />
+  <node id='-116763' action='modify' lat='36.03806280045' lon='-75.67191711412' />
+  <node id='-116764' action='modify' lat='36.03800463281' lon='-75.67206366691' />
+  <node id='-116765' action='modify' lat='36.03803033044' lon='-75.67207912911' />
+  <node id='-116766' action='modify' lat='36.03803298774' lon='-75.67207243427' />
+  <node id='-116767' action='modify' lat='36.03804467959' lon='-75.67207947037' />
+  <node id='-116768' action='modify' lat='36.03805140684' lon='-75.67206252273' />
+  <node id='-116769' action='modify' lat='36.03808163252' lon='-75.67208071026' />
+  <node id='-116770' action='modify' lat='36.03813041746' lon='-75.6719577998' />
+  <node id='-116771' action='modify' lat='36.04134435264' lon='-75.67554826637' />
+  <node id='-116772' action='modify' lat='36.04126391485' lon='-75.6754969406' />
+  <node id='-116773' action='modify' lat='36.04123063854' lon='-75.67557600532' />
+  <node id='-116774' action='modify' lat='36.04128445033' lon='-75.67561034215' />
+  <node id='-116775' action='modify' lat='36.04127691108' lon='-75.67562825411' />
+  <node id='-116776' action='modify' lat='36.04132140916' lon='-75.67565664739' />
+  <node id='-116777' action='modify' lat='36.0413245592' lon='-75.67564916372' />
+  <node id='-116778' action='modify' lat='36.04134782641' lon='-75.67566400956' />
+  <node id='-116779' action='modify' lat='36.04139146752' lon='-75.67556031529' />
+  <node id='-116780' action='modify' lat='36.04135033002' lon='-75.67553406626' />
+  <node id='-116781' action='modify' lat='36.03988928785' lon='-75.67237941973' />
+  <node id='-116782' action='modify' lat='36.03975882248' lon='-75.67230333402' />
+  <node id='-116783' action='modify' lat='36.03971259985' lon='-75.67242349174' />
+  <node id='-116784' action='modify' lat='36.03975984885' lon='-75.67245104634' />
+  <node id='-116785' action='modify' lat='36.03976451602' lon='-75.67243891447' />
+  <node id='-116786' action='modify' lat='36.03980670054' lon='-75.67246351602' />
+  <node id='-116787' action='modify' lat='36.03978336808' lon='-75.67252416862' />
+  <node id='-116788' action='modify' lat='36.03982440076' lon='-75.6725480983' />
+  <node id='-116789' action='modify' lat='36.04184808516' lon='-75.67484901891' />
+  <node id='-116790' action='modify' lat='36.04178713413' lon='-75.6749984992' />
+  <node id='-116791' action='modify' lat='36.04185718014' lon='-75.67504180275' />
+  <node id='-116792' action='modify' lat='36.04191813208' lon='-75.67489232122' />
+  <node id='-116793' action='modify' lat='36.03961600941' lon='-75.67389415053' />
+  <node id='-116794' action='modify' lat='36.03955625013' lon='-75.674032574' />
+  <node id='-116795' action='modify' lat='36.03962411303' lon='-75.67407698933' />
+  <node id='-116796' action='modify' lat='36.03968387236' lon='-75.67393856577' />
+  <node id='-116797' action='modify' lat='36.03943597736' lon='-75.675442289' />
+  <node id='-116798' action='modify' lat='36.03940203823' lon='-75.6755212183' />
+  <node id='-116799' action='modify' lat='36.03949004038' lon='-75.67557858628' />
+  <node id='-116800' action='modify' lat='36.03952398044' lon='-75.67549965689' />
+  <node id='-116801' action='modify' lat='36.03686386209' lon='-75.67042011142' />
+  <node id='-116802' action='modify' lat='36.03681818392' lon='-75.67053324323' />
+  <node id='-116803' action='modify' lat='36.0368883795' lon='-75.67057620771' />
+  <node id='-116804' action='modify' lat='36.03694709388' lon='-75.67043078902' />
+  <node id='-116805' action='modify' lat='36.03690778677' lon='-75.67040673112' />
+  <node id='-116806' action='modify' lat='36.03689475057' lon='-75.67043901681' />
+  <node id='-116807' action='modify' lat='36.03915799105' lon='-75.6736143213' />
+  <node id='-116808' action='modify' lat='36.03911685987' lon='-75.67371332912' />
+  <node id='-116809' action='modify' lat='36.03919240638' lon='-75.67376090763' />
+  <node id='-116810' action='modify' lat='36.0392335376' lon='-75.67366189975' />
+  <node id='-116811' action='modify' lat='36.03948674716' lon='-75.67528678144' />
+  <node id='-116812' action='modify' lat='36.03945408396' lon='-75.67536567154' />
+  <node id='-116813' action='modify' lat='36.03957823645' lon='-75.67544360111' />
+  <node id='-116814' action='modify' lat='36.0396108997' lon='-75.67536471091' />
+  <node id='-116815' action='modify' lat='36.04195198803' lon='-75.67495810443' />
+  <node id='-116816' action='modify' lat='36.0419053285' lon='-75.67506717398' />
+  <node id='-116817' action='modify' lat='36.04196959791' lon='-75.67510885837' />
+  <node id='-116818' action='modify' lat='36.04201625658' lon='-75.67499978879' />
+  <node id='-116819' action='modify' lat='36.03823065997' lon='-75.6720534634' />
+  <node id='-116820' action='modify' lat='36.03819473134' lon='-75.67203192509' />
+  <node id='-116821' action='modify' lat='36.03818819898' lon='-75.67204844614' />
+  <node id='-116822' action='modify' lat='36.03815571636' lon='-75.67202897392' />
+  <node id='-116823' action='modify' lat='36.03811607728' lon='-75.67212921435' />
+  <node id='-116824' action='modify' lat='36.03812721742' lon='-75.67213589242' />
+  <node id='-116825' action='modify' lat='36.03811562981' lon='-75.67216519509' />
+  <node id='-116826' action='modify' lat='36.03817268729' lon='-75.6721993999' />
+  <node id='-116827' action='modify' lat='36.03819065545' lon='-75.67215396105' />
+  <node id='-116828' action='modify' lat='36.03819608434' lon='-75.67215721542' />
+  <node id='-116829' action='modify' lat='36.0382107783' lon='-75.67212005795' />
+  <node id='-116830' action='modify' lat='36.03820556207' lon='-75.67211693025' />
+  <node id='-116831' action='modify' lat='36.03955093184' lon='-75.6751632023' />
+  <node id='-116832' action='modify' lat='36.03950782409' lon='-75.67526570549' />
+  <node id='-116833' action='modify' lat='36.03960216936' lon='-75.67532585719' />
+  <node id='-116834' action='modify' lat='36.03964527713' lon='-75.6752233528' />
+  <node id='-116835' action='modify' lat='36.04143613242' lon='-75.67538335885' />
+  <node id='-116836' action='modify' lat='36.04137308052' lon='-75.67534339971' />
+  <node id='-116837' action='modify' lat='36.04136144749' lon='-75.6753712271' />
+  <node id='-116838' action='modify' lat='36.04134523008' lon='-75.67536094933' />
+  <node id='-116839' action='modify' lat='36.04133525572' lon='-75.67538481212' />
+  <node id='-116840' action='modify' lat='36.04135196771' lon='-75.6753954037' />
+  <node id='-116841' action='modify' lat='36.04134961574' lon='-75.67540103129' />
+  <node id='-116842' action='modify' lat='36.04128942307' lon='-75.6753628851' />
+  <node id='-116843' action='modify' lat='36.04126288392' lon='-75.67542637384' />
+  <node id='-116844' action='modify' lat='36.04131417324' lon='-75.67545887711' />
+  <node id='-116845' action='modify' lat='36.04131013638' lon='-75.67546853364' />
+  <node id='-116846' action='modify' lat='36.04141508696' lon='-75.67553504468' />
+  <node id='-116847' action='modify' lat='36.04143709482' lon='-75.6754823942' />
+  <node id='-116848' action='modify' lat='36.04140360664' lon='-75.67546117146' />
+  <node id='-116849' action='modify' lat='36.03902816516' lon='-75.67352903794' />
+  <node id='-116850' action='modify' lat='36.03897116539' lon='-75.67366629091' />
+  <node id='-116851' action='modify' lat='36.03904761613' lon='-75.67371442265' />
+  <node id='-116852' action='modify' lat='36.03910461599' lon='-75.6735771707' />
+  <node id='-116853' action='modify' lat='36.03655880368' lon='-75.67027838869' />
+  <node id='-116854' action='modify' lat='36.03641901461' lon='-75.67020086272' />
+  <node id='-116855' action='modify' lat='36.03639003959' lon='-75.67028006152' />
+  <node id='-116856' action='modify' lat='36.03641022592' lon='-75.67029125619' />
+  <node id='-116857' action='modify' lat='36.03637930877' lon='-75.6703757612' />
+  <node id='-116858' action='modify' lat='36.03642062816' lon='-75.6703986766' />
+  <node id='-116859' action='modify' lat='36.03644453335' lon='-75.67033333577' />
+  <node id='-116860' action='modify' lat='36.03648230203' lon='-75.67035428169' />
+  <node id='-116861' action='modify' lat='36.03645924612' lon='-75.67041730031' />
+  <node id='-116862' action='modify' lat='36.03649976162' lon='-75.67043977044' />
+  <node id='-116863' action='modify' lat='36.03969286635' lon='-75.67296015788' />
+  <node id='-116864' action='modify' lat='36.03965886383' lon='-75.6730492194' />
+  <node id='-116865' action='modify' lat='36.03974293282' lon='-75.67309787812' />
+  <node id='-116866' action='modify' lat='36.03977693448' lon='-75.67300881656' />
+  <node id='-116867' action='modify' lat='36.03680619489' lon='-75.67015476727' />
+  <node id='-116868' action='modify' lat='36.03674787063' lon='-75.67017786792' />
+  <node id='-116869' action='modify' lat='36.03671665891' lon='-75.67025592928' />
+  <node id='-116870' action='modify' lat='36.03667481485' lon='-75.67027186612' />
+  <node id='-116871' action='modify' lat='36.03666076683' lon='-75.67026335116' />
+  <node id='-116872' action='modify' lat='36.03663881277' lon='-75.67031825721' />
+  <node id='-116873' action='modify' lat='36.03668801976' lon='-75.67034808243' />
+  <node id='-116874' action='modify' lat='36.0367489435' lon='-75.67032305036' />
+  <node id='-116875' action='modify' lat='36.03678413917' lon='-75.67034438354' />
+  <node id='-116876' action='modify' lat='36.03677738617' lon='-75.67036127107' />
+  <node id='-116877' action='modify' lat='36.03678430858' lon='-75.67038977776' />
+  <node id='-116878' action='modify' lat='36.0368039048' lon='-75.67040165528' />
+  <node id='-116879' action='modify' lat='36.03685601364' lon='-75.67027132831' />
+  <node id='-116880' action='modify' lat='36.03682737556' lon='-75.67016760517' />
+  <node id='-116881' action='modify' lat='36.03972061792' lon='-75.67222961683' />
+  <node id='-116882' action='modify' lat='36.03968072828' lon='-75.67220656947' />
+  <node id='-116883' action='modify' lat='36.0396827263' lon='-75.67220132736' />
+  <node id='-116884' action='modify' lat='36.03962977282' lon='-75.67217073195' />
+  <node id='-116885' action='modify' lat='36.03962765863' lon='-75.67217627753' />
+  <node id='-116886' action='modify' lat='36.03960195882' lon='-75.67216142908' />
+  <node id='-116887' action='modify' lat='36.03956326038' lon='-75.67226296921' />
+  <node id='-116888' action='modify' lat='36.03957004105' lon='-75.67226688732' />
+  <node id='-116889' action='modify' lat='36.03956887453' lon='-75.67226994664' />
+  <node id='-116890' action='modify' lat='36.03960580672' lon='-75.67229128521' />
+  <node id='-116891' action='modify' lat='36.03960712633' lon='-75.67228782096' />
+  <node id='-116892' action='modify' lat='36.03961103019' lon='-75.67229007692' />
+  <node id='-116893' action='modify' lat='36.03960430063' lon='-75.67230773556' />
+  <node id='-116894' action='modify' lat='36.03963408388' lon='-75.67232494475' />
+  <node id='-116895' action='modify' lat='36.03964014357' lon='-75.67230904584' />
+  <node id='-116896' action='modify' lat='36.03968128562' lon='-75.67233281763' />
+  <node id='-116897' action='modify' lat='36.0421516044' lon='-75.67504646525' />
+  <node id='-116898' action='modify' lat='36.04214467465' lon='-75.67504203552' />
+  <node id='-116899' action='modify' lat='36.04213862481' lon='-75.67505638758' />
+  <node id='-116900' action='modify' lat='36.04208424517' lon='-75.67502163449' />
+  <node id='-116901' action='modify' lat='36.04203136122' lon='-75.67514709312' />
+  <node id='-116902' action='modify' lat='36.04209559532' lon='-75.67518814398' />
+  <node id='-116903' action='modify' lat='36.04214849969' lon='-75.67506263891' />
+  <node id='-116904' action='modify' lat='36.04214557401' lon='-75.67506076988' />
+  <node id='-116905' action='modify' lat='36.03895882177' lon='-75.67384733624' />
+  <node id='-116906' action='modify' lat='36.03892515849' lon='-75.67392807974' />
+  <node id='-116907' action='modify' lat='36.03904803049' lon='-75.6740057408' />
+  <node id='-116908' action='modify' lat='36.03908169475' lon='-75.67392499829' />
+  <node id='-116909' action='modify' lat='36.03961585555' lon='-75.67503911504' />
+  <node id='-116910' action='modify' lat='36.03958296894' lon='-75.67511817337' />
+  <node id='-116911' action='modify' lat='36.03968795853' lon='-75.67518438336' />
+  <node id='-116912' action='modify' lat='36.03972084519' lon='-75.67510532496' />
+  <node id='-116913' action='modify' lat='36.03938610332' lon='-75.67200492297' />
+  <node id='-116914' action='modify' lat='36.03934863694' lon='-75.67210401711' />
+  <node id='-116915' action='modify' lat='36.03941565176' lon='-75.67214243012' />
+  <node id='-116916' action='modify' lat='36.03945311908' lon='-75.67204333588' />
+  <node id='-116917' action='modify' lat='36.03835123364' lon='-75.67214909604' />
+  <node id='-116918' action='modify' lat='36.03834603271' lon='-75.67214609982' />
+  <node id='-116919' action='modify' lat='36.03834981762' lon='-75.67213614188' />
+  <node id='-116920' action='modify' lat='36.03831619972' lon='-75.67211676976' />
+  <node id='-116921' action='modify' lat='36.03832321929' lon='-75.67209830444' />
+  <node id='-116922' action='modify' lat='36.03828423737' lon='-75.67207584182' />
+  <node id='-116923' action='modify' lat='36.03821878954' lon='-75.67224801899' />
+  <node id='-116924' action='modify' lat='36.03825643479' lon='-75.67226971191' />
+  <node id='-116925' action='modify' lat='36.03826288472' lon='-75.67225274571' />
+  <node id='-116926' action='modify' lat='36.03829763769' lon='-75.6722727716' />
+  <node id='-116927' action='modify' lat='36.03832973139' lon='-75.67218834114' />
+  <node id='-116928' action='modify' lat='36.03833513297' lon='-75.67219145342' />
+  <node id='-116929' action='modify' lat='36.03894842754' lon='-75.67399823859' />
+  <node id='-116930' action='modify' lat='36.03891529279' lon='-75.6740814406' />
+  <node id='-116931' action='modify' lat='36.03900020513' lon='-75.67413270542' />
+  <node id='-116932' action='modify' lat='36.03903333992' lon='-75.67404950334' />
+  <node id='-116933' action='modify' lat='36.03968133755' lon='-75.67486235033' />
+  <node id='-116934' action='modify' lat='36.03964470262' lon='-75.67494721492' />
+  <node id='-116935' action='modify' lat='36.03975612321' lon='-75.6750201344' />
+  <node id='-116936' action='modify' lat='36.03979275816' lon='-75.67493526862' />
+  <node id='-116937' action='modify' lat='36.0363686' lon='-75.67017354793' />
+  <node id='-116938' action='modify' lat='36.03622878077' lon='-75.67009554726' />
+  <node id='-116939' action='modify' lat='36.03620124063' lon='-75.67017038214' />
+  <node id='-116940' action='modify' lat='36.03622121273' lon='-75.67018152455' />
+  <node id='-116941' action='modify' lat='36.03618863168' lon='-75.67027005845' />
+  <node id='-116942' action='modify' lat='36.03622871777' lon='-75.67029242182' />
+  <node id='-116943' action='modify' lat='36.03625487434' lon='-75.67022134685' />
+  <node id='-116944' action='modify' lat='36.03629394491' lon='-75.67024314264' />
+  <node id='-116945' action='modify' lat='36.03626858595' lon='-75.67031205076' />
+  <node id='-116946' action='modify' lat='36.03630927634' lon='-75.67033475004' />
+  <node id='-116947' action='modify' lat='36.04081377559' lon='-75.67594448522' />
+  <node id='-116948' action='modify' lat='36.04075592298' lon='-75.67590795671' />
+  <node id='-116949' action='modify' lat='36.0407602002' lon='-75.67589768745' />
+  <node id='-116950' action='modify' lat='36.04073986786' lon='-75.6758848491' />
+  <node id='-116951' action='modify' lat='36.04073546199' lon='-75.67589542789' />
+  <node id='-116952' action='modify' lat='36.04072784746' lon='-75.67589062004' />
+  <node id='-116953' action='modify' lat='36.04069916779' lon='-75.67596795001' />
+  <node id='-116954' action='modify' lat='36.0406958739' lon='-75.67596587077' />
+  <node id='-116955' action='modify' lat='36.04067752662' lon='-75.67600992231' />
+  <node id='-116956' action='modify' lat='36.04076382703' lon='-75.67606441401' />
+  <node id='-116957' action='modify' lat='36.03927051707' lon='-75.67194374598' />
+  <node id='-116958' action='modify' lat='36.03923444406' lon='-75.67203433527' />
+  <node id='-116959' action='modify' lat='36.03930595297' lon='-75.67207750346' />
+  <node id='-116960' action='modify' lat='36.03934202605' lon='-75.67198691521' />
+  <node id='-116961' action='modify' lat='36.04007240798' lon='-75.6732139079' />
+  <node id='-116962' action='modify' lat='36.0400523844' lon='-75.67326617312' />
+  <node id='-116963' action='modify' lat='36.0400566569' lon='-75.67326865486' />
+  <node id='-116964' action='modify' lat='36.04004371057' lon='-75.67330244763' />
+  <node id='-116965' action='modify' lat='36.04006397168' lon='-75.67331421561' />
+  <node id='-116966' action='modify' lat='36.04006646929' lon='-75.67332387663' />
+  <node id='-116967' action='modify' lat='36.04008023598' lon='-75.67333187224' />
+  <node id='-116968' action='modify' lat='36.04008994057' lon='-75.67333020924' />
+  <node id='-116969' action='modify' lat='36.0401284507' lon='-75.67335257695' />
+  <node id='-116970' action='modify' lat='36.04017697949' lon='-75.67322590746' />
+  <node id='-116971' action='modify' lat='36.04009263834' lon='-75.67317692094' />
+  <node id='-116972' action='modify' lat='36.04007736491' lon='-75.67321678663' />
+  <node id='-116973' action='modify' lat='36.03887104267' lon='-75.67412448539' />
+  <node id='-116974' action='modify' lat='36.03883695443' lon='-75.67420310667' />
+  <node id='-116975' action='modify' lat='36.03895867091' lon='-75.67428311295' />
+  <node id='-116976' action='modify' lat='36.03899276011' lon='-75.67420449156' />
+  <node id='-116977' action='modify' lat='36.03973814203' lon='-75.67473129176' />
+  <node id='-116978' action='modify' lat='36.03970328781' lon='-75.67481067579' />
+  <node id='-116979' action='modify' lat='36.03979117595' lon='-75.67486917712' />
+  <node id='-116980' action='modify' lat='36.03982603018' lon='-75.67478979192' />
+  <node id='-116981' action='modify' lat='36.0407794056' lon='-75.67576419824' />
+  <node id='-116982' action='modify' lat='36.04074094002' lon='-75.67585508262' />
+  <node id='-116983' action='modify' lat='36.04085386506' lon='-75.67592754034' />
+  <node id='-116984' action='modify' lat='36.04089232979' lon='-75.67583665591' />
+  <node id='-116985' action='modify' lat='36.03913434079' lon='-75.67184257802' />
+  <node id='-116986' action='modify' lat='36.03908417' lon='-75.67197456186' />
+  <node id='-116987' action='modify' lat='36.03917936112' lon='-75.67202941835' />
+  <node id='-116988' action='modify' lat='36.03922953194' lon='-75.67189743328' />
+  <node id='-116989' action='modify' lat='36.03607346567' lon='-75.670106454' />
+  <node id='-116990' action='modify' lat='36.03606087791' lon='-75.67013825012' />
+  <node id='-116991' action='modify' lat='36.03611340834' lon='-75.67016977631' />
+  <node id='-116992' action='modify' lat='36.03612315881' lon='-75.67014514756' />
+  <node id='-116993' action='modify' lat='36.03614971647' lon='-75.67016108621' />
+  <node id='-116994' action='modify' lat='36.03622660481' lon='-75.66996687654' />
+  <node id='-116995' action='modify' lat='36.03615382397' lon='-75.66992319705' />
+  <node id='-116996' action='modify' lat='36.03607977389' lon='-75.67011023917' />
+  <node id='-116997' action='modify' lat='36.03880187795' lon='-75.67427417977' />
+  <node id='-116998' action='modify' lat='36.03876761431' lon='-75.67435461015' />
+  <node id='-116999' action='modify' lat='36.03887201522' lon='-75.67442203415' />
+  <node id='-117000' action='modify' lat='36.0389062798' lon='-75.67434160365' />
+  <node id='-117001' action='modify' lat='36.0397490021' lon='-75.6739927225' />
+  <node id='-117002' action='modify' lat='36.03968545843' lon='-75.67414543987' />
+  <node id='-117003' action='modify' lat='36.03975152982' lon='-75.67418711798' />
+  <node id='-117004' action='modify' lat='36.03981507354' lon='-75.67403440052' />
+  <node id='-117005' action='modify' lat='36.03844548215' lon='-75.67220298412' />
+  <node id='-117006' action='modify' lat='36.03842590069' lon='-75.67219140954' />
+  <node id='-117007' action='modify' lat='36.0384286476' lon='-75.67218436234' />
+  <node id='-117008' action='modify' lat='36.03839640257' lon='-75.67216530211' />
+  <node id='-117009' action='modify' lat='36.03837752528' lon='-75.67221371533' />
+  <node id='-117010' action='modify' lat='36.03838497383' lon='-75.67221811764' />
+  <node id='-117011' action='modify' lat='36.0383622412' lon='-75.67227642063' />
+  <node id='-117012' action='modify' lat='36.03837461331' lon='-75.67228373403' />
+  <node id='-117013' action='modify' lat='36.03835645079' lon='-75.6723303157' />
+  <node id='-117014' action='modify' lat='36.0384275168' lon='-75.67237232283' />
+  <node id='-117015' action='modify' lat='36.03849382426' lon='-75.67220226713' />
+  <node id='-117016' action='modify' lat='36.03845476398' lon='-75.67217917812' />
+  <node id='-117017' action='modify' lat='36.04021507118' lon='-75.67324015934' />
+  <node id='-117018' action='modify' lat='36.04014293344' lon='-75.673420026' />
+  <node id='-117019' action='modify' lat='36.04018789022' lon='-75.67344736061' />
+  <node id='-117020' action='modify' lat='36.04019604664' lon='-75.67342702269' />
+  <node id='-117021' action='modify' lat='36.04022223271' lon='-75.67344294525' />
+  <node id='-117022' action='modify' lat='36.04028621409' lon='-75.67328341638' />
+  <node id='-117023' action='modify' lat='36.04044489846' lon='-75.67654802554' />
+  <node id='-117024' action='modify' lat='36.04041818716' lon='-75.67661100845' />
+  <node id='-117025' action='modify' lat='36.04051995437' lon='-75.67667644234' />
+  <node id='-117026' action='modify' lat='36.04056392417' lon='-75.67657276726' />
+  <node id='-117027' action='modify' lat='36.0404830574' lon='-75.67652077249' />
+  <node id='-117028' action='modify' lat='36.04046579985' lon='-75.67656146454' />
+  <node id='-117029' action='modify' lat='36.03871530773' lon='-75.6744550697' />
+  <node id='-117030' action='modify' lat='36.03868071545' lon='-75.67453582104' />
+  <node id='-117031' action='modify' lat='36.03880370592' lon='-75.67461569516' />
+  <node id='-117032' action='modify' lat='36.03883829824' lon='-75.67453494374' />
+  <node id='-117033' action='modify' lat='36.03961307353' lon='-75.67423388075' />
+  <node id='-117034' action='modify' lat='36.03956985238' lon='-75.67433536997' />
+  <node id='-117035' action='modify' lat='36.03963609401' lon='-75.67437813703' />
+  <node id='-117036' action='modify' lat='36.0396793152' lon='-75.67427664775' />
+  <node id='-117037' action='modify' lat='36.03622260787' lon='-75.67086650615' />
+  <node id='-117038' action='modify' lat='36.03614581744' lon='-75.67106118382' />
+  <node id='-117039' action='modify' lat='36.03622279096' lon='-75.67110720923' />
+  <node id='-117040' action='modify' lat='36.03629958149' lon='-75.67091253252' />
+  <node id='-117041' action='modify' lat='36.04084645075' lon='-75.6755893313' />
+  <node id='-117042' action='modify' lat='36.04082623085' lon='-75.67563564427' />
+  <node id='-117043' action='modify' lat='36.04084573558' lon='-75.67564855557' />
+  <node id='-117044' action='modify' lat='36.04082421686' lon='-75.67569784225' />
+  <node id='-117045' action='modify' lat='36.04083590865' lon='-75.67570558084' />
+  <node id='-117046' action='modify' lat='36.04083270757' lon='-75.67571291222' />
+  <node id='-117047' action='modify' lat='36.04084999455' lon='-75.67572435391' />
+  <node id='-117048' action='modify' lat='36.04085258697' lon='-75.67571841555' />
+  <node id='-117049' action='modify' lat='36.04090306871' lon='-75.67575183152' />
+  <node id='-117050' action='modify' lat='36.04094541604' lon='-75.67565483877' />
+  <node id='-117051' action='modify' lat='36.0385261354' lon='-75.67225222861' />
+  <node id='-117052' action='modify' lat='36.03848812864' lon='-75.67235479801' />
+  <node id='-117053' action='modify' lat='36.03856139617' lon='-75.672395956' />
+  <node id='-117054' action='modify' lat='36.03858233711' lon='-75.6723394434' />
+  <node id='-117055' action='modify' lat='36.03858609821' lon='-75.67234155644' />
+  <node id='-117056' action='modify' lat='36.03860316406' lon='-75.67229549957' />
+  <node id='-117057' action='modify' lat='36.03950765055' lon='-75.6743684679' />
+  <node id='-117058' action='modify' lat='36.03947324187' lon='-75.67445029726' />
+  <node id='-117059' action='modify' lat='36.03958806367' lon='-75.67452349416' />
+  <node id='-117060' action='modify' lat='36.03962247241' lon='-75.67444166472' />
+  <node id='-117061' action='modify' lat='36.03868452657' lon='-75.67462455851' />
+  <node id='-117062' action='modify' lat='36.03865187332' lon='-75.67470373195' />
+  <node id='-117063' action='modify' lat='36.0387428457' lon='-75.67476061291' />
+  <node id='-117064' action='modify' lat='36.03877549989' lon='-75.67468143938' />
+  <node id='-117065' action='modify' lat='36.03878499544' lon='-75.67238822519' />
+  <node id='-117066' action='modify' lat='36.0387371729' lon='-75.67251036495' />
+  <node id='-117067' action='modify' lat='36.03881279816' lon='-75.67255525307' />
+  <node id='-117068' action='modify' lat='36.03886062075' lon='-75.67243311322' />
+  <node id='-117069' action='modify' lat='36.0410041421' lon='-75.67551559298' />
+  <node id='-117070' action='modify' lat='36.04092927751' lon='-75.67546537328' />
+  <node id='-117071' action='modify' lat='36.04088851491' lon='-75.6755575008' />
+  <node id='-117072' action='modify' lat='36.04098248116' lon='-75.67562053414' />
+  <node id='-117073' action='modify' lat='36.04100133634' lon='-75.67557792036' />
+  <node id='-117074' action='modify' lat='36.04098223465' lon='-75.67556510679' />
+  <node id='-117075' action='modify' lat='36.03858997749' lon='-75.6747536431' />
+  <node id='-117076' action='modify' lat='36.03855493629' lon='-75.67483632906' />
+  <node id='-117077' action='modify' lat='36.03865863151' lon='-75.67490294877' />
+  <node id='-117078' action='modify' lat='36.03869367275' lon='-75.67482026274' />
+  <node id='-117079' action='modify' lat='36.03907508272' lon='-75.67186292204' />
+  <node id='-117080' action='modify' lat='36.03902366987' lon='-75.6718313197' />
+  <node id='-117081' action='modify' lat='36.03903620118' lon='-75.67180041437' />
+  <node id='-117082' action='modify' lat='36.03895091446' lon='-75.67174799049' />
+  <node id='-117083' action='modify' lat='36.03895808255' lon='-75.6717303116' />
+  <node id='-117084' action='modify' lat='36.03892580814' lon='-75.67171047321' />
+  <node id='-117085' action='modify' lat='36.03891415995' lon='-75.6717392036' />
+  <node id='-117086' action='modify' lat='36.03888978288' lon='-75.67172421974' />
+  <node id='-117087' action='modify' lat='36.03885923975' lon='-75.67179955135' />
+  <node id='-117088' action='modify' lat='36.03888363422' lon='-75.67181454561' />
+  <node id='-117089' action='modify' lat='36.03887828794' lon='-75.67182773135' />
+  <node id='-117090' action='modify' lat='36.03891203248' lon='-75.67184847393' />
+  <node id='-117091' action='modify' lat='36.03891721991' lon='-75.67183568001' />
+  <node id='-117092' action='modify' lat='36.03892822812' lon='-75.67184244682' />
+  <node id='-117093' action='modify' lat='36.03892031641' lon='-75.67186195952' />
+  <node id='-117094' action='modify' lat='36.03901115581' lon='-75.6719212235' />
+  <node id='-117095' action='modify' lat='36.03900365227' lon='-75.67193973119' />
+  <node id='-117096' action='modify' lat='36.03903590186' lon='-75.67195955406' />
+  <node id='-117097' action='modify' lat='36.04096773624' lon='-75.67529858792' />
+  <node id='-117098' action='modify' lat='36.04092862891' lon='-75.67539523739' />
+  <node id='-117099' action='modify' lat='36.04100401479' lon='-75.67544148165' />
+  <node id='-117100' action='modify' lat='36.04104312126' lon='-75.67534483215' />
+  <node id='-117101' action='modify' lat='36.03853026812' lon='-75.67487252979' />
+  <node id='-117102' action='modify' lat='36.03849025937' lon='-75.67496520226' />
+  <node id='-117103' action='modify' lat='36.0386209661' lon='-75.67505074854' />
+  <node id='-117104' action='modify' lat='36.03866097581' lon='-75.67495807593' />
+  <node id='-117105' action='modify' lat='36.03840181295' lon='-75.67282563074' />
+  <node id='-117106' action='modify' lat='36.03711192558' lon='-75.67206007377' />
+  <node id='-117107' action='modify' lat='36.03708313513' lon='-75.6721336114' />
+  <node id='-117108' action='modify' lat='36.03718283634' lon='-75.67219278378' />
+  <node id='-117109' action='modify' lat='36.03692706295' lon='-75.67284608123' />
+  <node id='-117110' action='modify' lat='36.03702877391' lon='-75.67290644821' />
+  <node id='-117111' action='modify' lat='36.03701588175' lon='-75.67293937819' />
+  <node id='-117112' action='modify' lat='36.03722972131' lon='-75.67306629434' />
+  <node id='-117113' action='modify' lat='36.03722436413' lon='-75.67307997869' />
+  <node id='-117114' action='modify' lat='36.03726452125' lon='-75.67310381302' />
+  <node id='-117115' action='modify' lat='36.03725546192' lon='-75.67312695431' />
+  <node id='-117116' action='modify' lat='36.0373682408' lon='-75.67319741601' />
+  <node id='-117117' action='modify' lat='36.03736992533' lon='-75.67319311187' />
+  <node id='-117118' action='modify' lat='36.03740923642' lon='-75.67321644385' />
+  <node id='-117119' action='modify' lat='36.037418381' lon='-75.67319308806' />
+  <node id='-117120' action='modify' lat='36.03745559953' lon='-75.67321517741' />
+  <node id='-117121' action='modify' lat='36.03746035731' lon='-75.67320302554' />
+  <node id='-117122' action='modify' lat='36.03756745386' lon='-75.67326658962' />
+  <node id='-117123' action='modify' lat='36.03757923828' lon='-75.67323649089' />
+  <node id='-117124' action='modify' lat='36.03811513113' lon='-75.67355455544' />
+  <node id='-117125' action='modify' lat='36.03811739322' lon='-75.67354877629' />
+  <node id='-117126' action='modify' lat='36.03820033687' lon='-75.67359800509' />
+  <node id='-117127' action='modify' lat='36.03834330487' lon='-75.67323283848' />
+  <node id='-117128' action='modify' lat='36.03826141513' lon='-75.67318423485' />
+  <node id='-117129' action='modify' lat='36.03617361559' lon='-75.67087910616' />
+  <node id='-117130' action='modify' lat='36.03610308915' lon='-75.67083756439' />
+  <node id='-117131' action='modify' lat='36.03611248412' lon='-75.67081338674' />
+  <node id='-117132' action='modify' lat='36.03604511399' lon='-75.67077370428' />
+  <node id='-117133' action='modify' lat='36.03599957929' lon='-75.67089088791' />
+  <node id='-117134' action='modify' lat='36.03605561719' lon='-75.67092389622' />
+  <node id='-117135' action='modify' lat='36.03604805502' lon='-75.67094335724' />
+  <node id='-117136' action='modify' lat='36.03611019844' lon='-75.67097996159' />
+  <node id='-117137' action='modify' lat='36.0361011995' lon='-75.67100312029' />
+  <node id='-117138' action='modify' lat='36.03608810402' lon='-75.6709954075' />
+  <node id='-117139' action='modify' lat='36.03607661076' lon='-75.67102498549' />
+  <node id='-117140' action='modify' lat='36.03609126243' lon='-75.67103361548' />
+  <node id='-117141' action='modify' lat='36.03607621644' lon='-75.67107233666' />
+  <node id='-117142' action='modify' lat='36.03609075815' lon='-75.67108090236' />
+  <node id='-117143' action='modify' lat='36.03954089991' lon='-75.67456587985' />
+  <node id='-117144' action='modify' lat='36.03948515949' lon='-75.67453020728' />
+  <node id='-117145' action='modify' lat='36.03949161976' lon='-75.67451490161' />
+  <node id='-117146' action='modify' lat='36.03947865564' lon='-75.67450660515' />
+  <node id='-117147' action='modify' lat='36.03947193274' lon='-75.67452253232' />
+  <node id='-117148' action='modify' lat='36.03946551308' lon='-75.67451842371' />
+  <node id='-117149' action='modify' lat='36.03943169422' lon='-75.67459853652' />
+  <node id='-117150' action='modify' lat='36.03949766387' lon='-75.67464075645' />
+  <node id='-117151' action='modify' lat='36.03948760995' lon='-75.67466457322' />
+  <node id='-117152' action='modify' lat='36.03949855593' lon='-75.67467157841' />
+  <node id='-117153' action='modify' lat='36.03950616669' lon='-75.67465354944' />
+  <node id='-117154' action='modify' lat='36.03953070912' lon='-75.67466925582' />
+  <node id='-117155' action='modify' lat='36.03956996158' lon='-75.67457627013' />
+  <node id='-117156' action='modify' lat='36.0395436277' lon='-75.67455941745' />
+  <node id='-117157' action='modify' lat='36.04105456237' lon='-75.6751551236' />
+  <node id='-117158' action='modify' lat='36.04101127714' lon='-75.67525849542' />
+  <node id='-117159' action='modify' lat='36.04108097266' lon='-75.67530274036' />
+  <node id='-117160' action='modify' lat='36.041124257' lon='-75.6751993674' />
+  <node id='-117161' action='modify' lat='36.03897388813' lon='-75.6725238515' />
+  <node id='-117162' action='modify' lat='36.03894331121' lon='-75.67250534612' />
+  <node id='-117163' action='modify' lat='36.03894805121' lon='-75.67249347117' />
+  <node id='-117164' action='modify' lat='36.03892225397' lon='-75.67247785844' />
+  <node id='-117165' action='modify' lat='36.03891700324' lon='-75.67249101244' />
+  <node id='-117166' action='modify' lat='36.03888663717' lon='-75.67247263384' />
+  <node id='-117167' action='modify' lat='36.03884530887' lon='-75.6725761579' />
+  <node id='-117168' action='modify' lat='36.03893196377' lon='-75.6726286027' />
+  <node id='-117169' action='modify' lat='36.03894548663' lon='-75.67259472874' />
+  <node id='-117170' action='modify' lat='36.03894938519' lon='-75.67259708817' />
+  <node id='-117171' action='modify' lat='36.03883203479' lon='-75.67166837489' />
+  <node id='-117172' action='modify' lat='36.03878595628' lon='-75.67164046405' />
+  <node id='-117173' action='modify' lat='36.03878905448' lon='-75.67163270836' />
+  <node id='-117174' action='modify' lat='36.03878452504' lon='-75.67162996533' />
+  <node id='-117175' action='modify' lat='36.03879399537' lon='-75.67160626352' />
+  <node id='-117176' action='modify' lat='36.03869560161' lon='-75.67154666472' />
+  <node id='-117177' action='modify' lat='36.03864156478' lon='-75.67168190764' />
+  <node id='-117178' action='modify' lat='36.03866168327' lon='-75.67169409393' />
+  <node id='-117179' action='modify' lat='36.03865993999' lon='-75.67169845722' />
+  <node id='-117180' action='modify' lat='36.03874467379' lon='-75.6717497823' />
+  <node id='-117181' action='modify' lat='36.03874872938' lon='-75.67173963213' />
+  <node id='-117182' action='modify' lat='36.03879287872' lon='-75.6717663747' />
+  <node id='-117183' action='modify' lat='36.03856321241' lon='-75.6750797016' />
+  <node id='-117184' action='modify' lat='36.03845924705' lon='-75.67501150184' />
+  <node id='-117185' action='modify' lat='36.0384401884' lon='-75.6750555451' />
+  <node id='-117186' action='modify' lat='36.03846039882' lon='-75.67506880316' />
+  <node id='-117187' action='modify' lat='36.03844058254' lon='-75.6751145975' />
+  <node id='-117188' action='modify' lat='36.03853486225' lon='-75.67517644413' />
+  <node id='-117189' action='modify' lat='36.03855595536' lon='-75.67512769699' />
+  <node id='-117190' action='modify' lat='36.03854543148' lon='-75.67512079321' />
+  <node id='-117191' action='modify' lat='36.0394972137' lon='-75.67473451714' />
+  <node id='-117192' action='modify' lat='36.03947954278' lon='-75.67472292182' />
+  <node id='-117193' action='modify' lat='36.03948344979' lon='-75.67471389704' />
+  <node id='-117194' action='modify' lat='36.03941384124' lon='-75.67466821981' />
+  <node id='-117195' action='modify' lat='36.03937346082' lon='-75.67476151163' />
+  <node id='-117196' action='modify' lat='36.03944340722' lon='-75.67480741036' />
+  <node id='-117197' action='modify' lat='36.03945864226' lon='-75.6747722124' />
+  <node id='-117198' action='modify' lat='36.03947597436' lon='-75.67478358521' />
+  <node id='-117199' action='modify' lat='36.04113638856' lon='-75.67490176274' />
+  <node id='-117200' action='modify' lat='36.04112474507' lon='-75.67493009685' />
+  <node id='-117201' action='modify' lat='36.04113055993' lon='-75.67493371978' />
+  <node id='-117202' action='modify' lat='36.04110660719' lon='-75.67499200321' />
+  <node id='-117203' action='modify' lat='36.04117430515' lon='-75.67503418412' />
+  <node id='-117204' action='modify' lat='36.04122601662' lon='-75.67490835874' />
+  <node id='-117205' action='modify' lat='36.04115857182' lon='-75.67486633623' />
+  <node id='-117206' action='modify' lat='36.04114245845' lon='-75.67490554503' />
+  <node id='-117207' action='modify' lat='36.03852212284' lon='-75.67149671553' />
+  <node id='-117208' action='modify' lat='36.0384680457' lon='-75.67163564048' />
+  <node id='-117209' action='modify' lat='36.03853291357' lon='-75.67167391929' />
+  <node id='-117210' action='modify' lat='36.03858699076' lon='-75.67153499425' />
+  <node id='-117211' action='modify' lat='36.04127597401' lon='-75.67497024825' />
+  <node id='-117212' action='modify' lat='36.04122222455' lon='-75.67509872705' />
+  <node id='-117213' action='modify' lat='36.04128693828' lon='-75.67513977211' />
+  <node id='-117214' action='modify' lat='36.04134068688' lon='-75.67501129327' />
+  <node id='-117215' action='modify' lat='36.03841767064' lon='-75.67138083447' />
+  <node id='-117216' action='modify' lat='36.03836407599' lon='-75.67151677714' />
+  <node id='-117217' action='modify' lat='36.03843346483' lon='-75.67155824772' />
+  <node id='-117218' action='modify' lat='36.03848705956' lon='-75.67142230607' />
+  <node id='-117219' action='modify' lat='36.03908349609' lon='-75.67264068331' />
+  <node id='-117220' action='modify' lat='36.03906399006' lon='-75.67262926086' />
+  <node id='-117221' action='modify' lat='36.03906743283' lon='-75.67262034734' />
+  <node id='-117222' action='modify' lat='36.03907290911' lon='-75.67262355431' />
+  <node id='-117223' action='modify' lat='36.03908009714' lon='-75.67260494755' />
+  <node id='-117224' action='modify' lat='36.03907438809' lon='-75.67260160364' />
+  <node id='-117225' action='modify' lat='36.03908012884' lon='-75.67258674062' />
+  <node id='-117226' action='modify' lat='36.03906992037' lon='-75.67258076231' />
+  <node id='-117227' action='modify' lat='36.03907255111' lon='-75.67257395191' />
+  <node id='-117228' action='modify' lat='36.03902255535' lon='-75.67254467555' />
+  <node id='-117229' action='modify' lat='36.03901998776' lon='-75.67255132123' />
+  <node id='-117230' action='modify' lat='36.03900979858' lon='-75.67254535545' />
+  <node id='-117231' action='modify' lat='36.03896598412' lon='-75.67265878288' />
+  <node id='-117232' action='modify' lat='36.03903574342' lon='-75.67269963433' />
+  <node id='-117233' action='modify' lat='36.03905137959' lon='-75.67265915452' />
+  <node id='-117234' action='modify' lat='36.03907175252' lon='-75.67267108523' />
+  <node id='-117235' action='modify' lat='36.0394325258' lon='-75.67488773584' />
+  <node id='-117236' action='modify' lat='36.03933211004' lon='-75.67482097243' />
+  <node id='-117237' action='modify' lat='36.03929709332' lon='-75.67490081573' />
+  <node id='-117238' action='modify' lat='36.03934515493' lon='-75.67493277043' />
+  <node id='-117239' action='modify' lat='36.03933566482' lon='-75.67495440986' />
+  <node id='-117240' action='modify' lat='36.03935985405' lon='-75.67497049284' />
+  <node id='-117241' action='modify' lat='36.03936842548' lon='-75.6749509487' />
+  <node id='-117242' action='modify' lat='36.03939659036' lon='-75.67496967451' />
+  <node id='-117243' action='modify' lat='36.04149643228' lon='-75.6750695558' />
+  <node id='-117244' action='modify' lat='36.04145976904' lon='-75.67515527499' />
+  <node id='-117245' action='modify' lat='36.04155828' lon='-75.67521915677' />
+  <node id='-117246' action='modify' lat='36.04159882208' lon='-75.67512436926' />
+  <node id='-117247' action='modify' lat='36.04154893735' lon='-75.67509202132' />
+  <node id='-117248' action='modify' lat='36.04154505942' lon='-75.67510108842' />
+  <node id='-117249' action='modify' lat='36.04026977267' lon='-75.67383469069' />
+  <node id='-117250' action='modify' lat='36.0402121752' lon='-75.67396831948' />
+  <node id='-117251' action='modify' lat='36.04028547676' lon='-75.67401621802' />
+  <node id='-117252' action='modify' lat='36.04034307428' lon='-75.67388258914' />
+  <node id='-117253' action='modify' lat='36.03681491262' lon='-75.67113334802' />
+  <node id='-117254' action='modify' lat='36.03675078046' lon='-75.67109543754' />
+  <node id='-117255' action='modify' lat='36.03676075664' lon='-75.67106985233' />
+  <node id='-117256' action='modify' lat='36.03671951658' lon='-75.67104547432' />
+  <node id='-117257' action='modify' lat='36.03670807794' lon='-75.67107480713' />
+  <node id='-117258' action='modify' lat='36.03669627947' lon='-75.67106783232' />
+  <node id='-117259' action='modify' lat='36.03670049801' lon='-75.67105701282' />
+  <node id='-117260' action='modify' lat='36.03663618986' lon='-75.67101899869' />
+  <node id='-117261' action='modify' lat='36.03657676071' lon='-75.67117140505' />
+  <node id='-117262' action='modify' lat='36.0365559024' lon='-75.67115907544' />
+  <node id='-117263' action='modify' lat='36.03652340881' lon='-75.67124240519' />
+  <node id='-117264' action='modify' lat='36.03663066255' lon='-75.67130580515' />
+  <node id='-117265' action='modify' lat='36.03665541611' lon='-75.67124232574' />
+  <node id='-117266' action='modify' lat='36.03666866631' lon='-75.6712501577' />
+  <node id='-117267' action='modify' lat='36.03663767129' lon='-75.67132964406' />
+  <node id='-117268' action='modify' lat='36.03659260939' lon='-75.67130300785' />
+  <node id='-117269' action='modify' lat='36.03657830495' lon='-75.67133969122' />
+  <node id='-117270' action='modify' lat='36.03668436163' lon='-75.67140238248' />
+  <node id='-117271' action='modify' lat='36.03668614348' lon='-75.67139781341' />
+  <node id='-117272' action='modify' lat='36.03671932628' lon='-75.6714174282' />
+  <node id='-117273' action='modify' lat='36.03672964897' lon='-75.67139095495' />
+  <node id='-117274' action='modify' lat='36.03674280935' lon='-75.67139873402' />
+  <node id='-117275' action='modify' lat='36.03677511091' lon='-75.67131589835' />
+  <node id='-117276' action='modify' lat='36.03674291608' lon='-75.67129686675' />
+  <node id='-117277' action='modify' lat='36.03677446487' lon='-75.67121596069' />
+  <node id='-117278' action='modify' lat='36.03677748025' lon='-75.67121774359' />
+  <node id='-117279' action='modify' lat='36.0368019885' lon='-75.6711548937' />
+  <node id='-117280' action='modify' lat='36.03680566379' lon='-75.67115706681' />
+  <node id='-117281' action='modify' lat='36.03923742416' lon='-75.67497923447' />
+  <node id='-117282' action='modify' lat='36.03920337995' lon='-75.67505949381' />
+  <node id='-117283' action='modify' lat='36.03932577925' lon='-75.67513820449' />
+  <node id='-117284' action='modify' lat='36.03935982354' lon='-75.67505794616' />
+  <node id='-117285' action='modify' lat='36.038351739' lon='-75.67136928243' />
+  <node id='-117286' action='modify' lat='36.03831819056' lon='-75.6713492871' />
+  <node id='-117287' action='modify' lat='36.03832970112' lon='-75.67132000962' />
+  <node id='-117288' action='modify' lat='36.03829354939' lon='-75.67129846305' />
+  <node id='-117289' action='modify' lat='36.03823775487' lon='-75.67144037652' />
+  <node id='-117290' action='modify' lat='36.03830745503' lon='-75.67148191961' />
+  <node id='-117291' action='modify' lat='36.04012213727' lon='-75.67380201147' />
+  <node id='-117292' action='modify' lat='36.04007561284' lon='-75.67391159997' />
+  <node id='-117293' action='modify' lat='36.04016595261' lon='-75.67396974406' />
+  <node id='-117294' action='modify' lat='36.04021196531' lon='-75.67386136352' />
+  <node id='-117295' action='modify' lat='36.04017441016' lon='-75.67381623572' />
+  <node id='-117296' action='modify' lat='36.03596055348' lon='-75.67067266843' />
+  <node id='-117297' action='modify' lat='36.03593379053' lon='-75.6706559776' />
+  <node id='-117298' action='modify' lat='36.03593746528' lon='-75.67064704476' />
+  <node id='-117299' action='modify' lat='36.03589146168' lon='-75.67061835412' />
+  <node id='-117300' action='modify' lat='36.03584777367' lon='-75.67072454084' />
+  <node id='-117301' action='modify' lat='36.03592054112' lon='-75.67076992346' />
+  <node id='-117302' action='modify' lat='36.04136947434' lon='-75.67504570841' />
+  <node id='-117303' action='modify' lat='36.0413342114' lon='-75.67512790881' />
+  <node id='-117304' action='modify' lat='36.04136860829' lon='-75.67515027974' />
+  <node id='-117305' action='modify' lat='36.04136136917' lon='-75.67516715566' />
+  <node id='-117306' action='modify' lat='36.04138543203' lon='-75.67518280573' />
+  <node id='-117307' action='modify' lat='36.04139248545' lon='-75.67516636273' />
+  <node id='-117308' action='modify' lat='36.04141681361' lon='-75.67518218506' />
+  <node id='-117309' action='modify' lat='36.04145226137' lon='-75.67509955062' />
+  <node id='-117310' action='modify' lat='36.03920139427' lon='-75.67511294466' />
+  <node id='-117311' action='modify' lat='36.03915778161' lon='-75.67521604562' />
+  <node id='-117312' action='modify' lat='36.03925569765' lon='-75.67527883878' />
+  <node id='-117313' action='modify' lat='36.03928293875' lon='-75.67521443991' />
+  <node id='-117314' action='modify' lat='36.03930318589' lon='-75.67522742461' />
+  <node id='-117315' action='modify' lat='36.03931955747' lon='-75.67518872131' />
+  <node id='-117316' action='modify' lat='36.03816727664' lon='-75.67122917225' />
+  <node id='-117317' action='modify' lat='36.03813039554' lon='-75.67132172371' />
+  <node id='-117318' action='modify' lat='36.03814494509' lon='-75.67133051252' />
+  <node id='-117319' action='modify' lat='36.03812079323' lon='-75.67139112255' />
+  <node id='-117320' action='modify' lat='36.03819217491' lon='-75.67143424376' />
+  <node id='-117321' action='modify' lat='36.03825320703' lon='-75.67128108219' />
+  <node id='-117322' action='modify' lat='36.03699139492' lon='-75.67134290976' />
+  <node id='-117323' action='modify' lat='36.03691701238' lon='-75.67129744951' />
+  <node id='-117324' action='modify' lat='36.03685066485' lon='-75.67146201514' />
+  <node id='-117325' action='modify' lat='36.03692522435' lon='-75.67150758477' />
+  <node id='-117326' action='modify' lat='36.03697268139' lon='-75.67138987444' />
+  <node id='-117327' action='modify' lat='36.03697676495' lon='-75.67139237045' />
+  <node id='-117328' action='modify' lat='36.03698145547' lon='-75.67138073537' />
+  <node id='-117329' action='modify' lat='36.03697719492' lon='-75.6713781312' />
+  <node id='-117330' action='modify' lat='36.04006179204' lon='-75.67367219349' />
+  <node id='-117331' action='modify' lat='36.03999631184' lon='-75.67382242904' />
+  <node id='-117332' action='modify' lat='36.04006029771' lon='-75.67386470942' />
+  <node id='-117333' action='modify' lat='36.04012577797' lon='-75.67371447379' />
+  <node id='-117334' action='modify' lat='36.04060844133' lon='-75.67528277493' />
+  <node id='-117335' action='modify' lat='36.04057308497' lon='-75.67536834146' />
+  <node id='-117336' action='modify' lat='36.04069466895' lon='-75.67544450717' />
+  <node id='-117337' action='modify' lat='36.0407300254' lon='-75.67535894166' />
+  <node id='-117338' action='modify' lat='36.03574119165' lon='-75.67055522598' />
+  <node id='-117339' action='modify' lat='36.03570604887' lon='-75.67064341203' />
+  <node id='-117340' action='modify' lat='36.03578127071' lon='-75.67068885188' />
+  <node id='-117341' action='modify' lat='36.03582173354' lon='-75.67058731498' />
+  <node id='-117342' action='modify' lat='36.03578609523' lon='-75.67056578706' />
+  <node id='-117343' action='modify' lat='36.03578077523' lon='-75.67057913784' />
+  <node id='-117344' action='modify' lat='36.03914868963' lon='-75.67532184387' />
+  <node id='-117345' action='modify' lat='36.03911925885' lon='-75.67530315578' />
+  <node id='-117346' action='modify' lat='36.03909993764' lon='-75.67534928531' />
+  <node id='-117347' action='modify' lat='36.03912764142' lon='-75.6753668755' />
+  <node id='-117348' action='modify' lat='36.03911830595' lon='-75.67538916352' />
+  <node id='-117349' action='modify' lat='36.03920756904' lon='-75.67544584295' />
+  <node id='-117350' action='modify' lat='36.03925706686' lon='-75.67532766563' />
+  <node id='-117351' action='modify' lat='36.03916953161' lon='-75.67527208417' />
+  <node id='-117352' action='modify' lat='36.03723529685' lon='-75.67148138722' />
+  <node id='-117353' action='modify' lat='36.03720450662' lon='-75.67146280484' />
+  <node id='-117354' action='modify' lat='36.03720655924' lon='-75.67145764833' />
+  <node id='-117355' action='modify' lat='36.03720324762' lon='-75.67145565003' />
+  <node id='-117356' action='modify' lat='36.03721027906' lon='-75.67143798825' />
+  <node id='-117357' action='modify' lat='36.03717041119' lon='-75.67141392741' />
+  <node id='-117358' action='modify' lat='36.03711948452' lon='-75.67154184706' />
+  <node id='-117359' action='modify' lat='36.03719345419' lon='-75.67158648866' />
+  <node id='-117360' action='modify' lat='36.04070121395' lon='-75.67512533676' />
+  <node id='-117361' action='modify' lat='36.04066235691' lon='-75.67521742668' />
+  <node id='-117362' action='modify' lat='36.04076414689' lon='-75.67528254166' />
+  <node id='-117363' action='modify' lat='36.040803004' lon='-75.67519045277' />
+  <node id='-117364' action='modify' lat='36.03568359549' lon='-75.67071147116' />
+  <node id='-117365' action='modify' lat='36.03565063659' lon='-75.67079856209' />
+  <node id='-117366' action='modify' lat='36.03571764098' lon='-75.67083700046' />
+  <node id='-117367' action='modify' lat='36.0357505999' lon='-75.67074990948' />
+  <node id='-117368' action='modify' lat='36.03802669765' lon='-75.67116005841' />
+  <node id='-117369' action='modify' lat='36.03799104962' lon='-75.6712507013' />
+  <node id='-117370' action='modify' lat='36.03800889323' lon='-75.67126134034' />
+  <node id='-117371' action='modify' lat='36.03799024273' lon='-75.67130876381' />
+  <node id='-117372' action='modify' lat='36.03804410351' lon='-75.67134087608' />
+  <node id='-117373' action='modify' lat='36.03805774799' lon='-75.6713061834' />
+  <node id='-117374' action='modify' lat='36.03806643146' lon='-75.67131136066' />
+  <node id='-117375' action='modify' lat='36.03807177997' lon='-75.6712977619' />
+  <node id='-117376' action='modify' lat='36.03808148734' lon='-75.67130354972' />
+  <node id='-117377' action='modify' lat='36.03809456164' lon='-75.67127030396' />
+  <node id='-117378' action='modify' lat='36.03810451562' lon='-75.67127623926' />
+  <node id='-117379' action='modify' lat='36.03812674779' lon='-75.67121970886' />
+  <node id='-117380' action='modify' lat='36.03582458935' lon='-75.67079314542' />
+  <node id='-117381' action='modify' lat='36.03578884118' lon='-75.67089923049' />
+  <node id='-117382' action='modify' lat='36.03585449456' lon='-75.6709327664' />
+  <node id='-117383' action='modify' lat='36.03589024186' lon='-75.67082668129' />
+  <node id='-117384' action='modify' lat='36.03731713351' lon='-75.67140094087' />
+  <node id='-117385' action='modify' lat='36.03722342923' lon='-75.67164065692' />
+  <node id='-117386' action='modify' lat='36.03729411808' lon='-75.67168254521' />
+  <node id='-117387' action='modify' lat='36.0373878224' lon='-75.67144282788' />
+  <node id='-117388' action='modify' lat='36.03998224772' lon='-75.67367246754' />
+  <node id='-117389' action='modify' lat='36.03997164307' lon='-75.67366568041' />
+  <node id='-117390' action='modify' lat='36.03996565216' lon='-75.67367987211' />
+  <node id='-117391' action='modify' lat='36.0398838665' lon='-75.67362752989' />
+  <node id='-117392' action='modify' lat='36.03987253441' lon='-75.67365437308' />
+  <node id='-117393' action='modify' lat='36.03986460961' lon='-75.67364930181' />
+  <node id='-117394' action='modify' lat='36.03985728705' lon='-75.67366664955' />
+  <node id='-117395' action='modify' lat='36.03986692714' lon='-75.67367281918' />
+  <node id='-117396' action='modify' lat='36.03983193551' lon='-75.67375571031' />
+  <node id='-117397' action='modify' lat='36.03987999093' lon='-75.67378646567' />
+  <node id='-117398' action='modify' lat='36.03988604627' lon='-75.67377212256' />
+  <node id='-117399' action='modify' lat='36.03990328626' lon='-75.67378315593' />
+  <node id='-117400' action='modify' lat='36.03992976169' lon='-75.67372043865' />
+  <node id='-117401' action='modify' lat='36.03995865348' lon='-75.67373892876' />
+  <node id='-117402' action='modify' lat='36.03997957255' lon='-75.67368937368' />
+  <node id='-117403' action='modify' lat='36.0399760594' lon='-75.67368712595' />
+  <node id='-117404' action='modify' lat='36.03790394314' lon='-75.67113027329' />
+  <node id='-117405' action='modify' lat='36.03784099432' lon='-75.67128248424' />
+  <node id='-117406' action='modify' lat='36.03790565151' lon='-75.67132302062' />
+  <node id='-117407' action='modify' lat='36.03796860041' lon='-75.67117081068' />
+  <node id='-117408' action='modify' lat='36.04069741433' lon='-75.67499919644' />
+  <node id='-117409' action='modify' lat='36.04067643819' lon='-75.67504872842' />
+  <node id='-117410' action='modify' lat='36.040813281' lon='-75.67513658775' />
+  <node id='-117411' action='modify' lat='36.04085485122' lon='-75.67503842767' />
+  <node id='-117412' action='modify' lat='36.04074536882' lon='-75.67496813418' />
+  <node id='-117413' action='modify' lat='36.04072477483' lon='-75.67501676328' />
+  <node id='-117414' action='modify' lat='36.03917204754' lon='-75.67546433026' />
+  <node id='-117415' action='modify' lat='36.03908219148' lon='-75.67540739994' />
+  <node id='-117416' action='modify' lat='36.0390670781' lon='-75.675443563' />
+  <node id='-117417' action='modify' lat='36.03909276946' lon='-75.67545983947' />
+  <node id='-117418' action='modify' lat='36.03906779099' lon='-75.67551960696' />
+  <node id='-117419' action='modify' lat='36.03915535032' lon='-75.67557929241' />
+  <node id='-117420' action='modify' lat='36.03919798044' lon='-75.67547728809' />
+  <node id='-117421' action='modify' lat='36.03917319473' lon='-75.6754615849' />
+  <node id='-117422' action='modify' lat='36.03583326692' lon='-75.67120398545' />
+  <node id='-117423' action='modify' lat='36.03579943974' lon='-75.67128953784' />
+  <node id='-117424' action='modify' lat='36.03588014461' lon='-75.67133791058' />
+  <node id='-117425' action='modify' lat='36.03591397276' lon='-75.67125235919' />
+  <node id='-117426' action='modify' lat='36.0409117552' lon='-75.6747228092' />
+  <node id='-117427' action='modify' lat='36.04084617664' lon='-75.6748769334' />
+  <node id='-117428' action='modify' lat='36.04091228208' lon='-75.67491957617' />
+  <node id='-117429' action='modify' lat='36.04097785979' lon='-75.67476545191' />
+  <node id='-117430' action='modify' lat='36.03980931678' lon='-75.67354127777' />
+  <node id='-117431' action='modify' lat='36.03974499689' lon='-75.67369282298' />
+  <node id='-117432' action='modify' lat='36.03980784149' lon='-75.67373325937' />
+  <node id='-117433' action='modify' lat='36.03987216145' lon='-75.67358171518' />
+  <node id='-117434' action='modify' lat='36.03718986046' lon='-75.67175629729' />
+  <node id='-117435' action='modify' lat='36.03715247751' lon='-75.67185185807' />
+  <node id='-117436' action='modify' lat='36.03723351891' lon='-75.67189991738' />
+  <node id='-117437' action='modify' lat='36.03723691897' lon='-75.67189122563' />
+  <node id='-117438' action='modify' lat='36.03731070572' lon='-75.67193498361' />
+  <node id='-117439' action='modify' lat='36.0373526168' lon='-75.67182784758' />
+  <node id='-117440' action='modify' lat='36.03731350943' lon='-75.67180465554' />
+  <node id='-117441' action='modify' lat='36.03730558131' lon='-75.67182492241' />
+  <node id='-117442' action='modify' lat='36.03904264855' lon='-75.67557742594' />
+  <node id='-117443' action='modify' lat='36.03899457856' lon='-75.67569572376' />
+  <node id='-117444' action='modify' lat='36.03905692082' lon='-75.67573412797' />
+  <node id='-117445' action='modify' lat='36.03907320558' lon='-75.67569405059' />
+  <node id='-117446' action='modify' lat='36.03909570844' lon='-75.67570791385' />
+  <node id='-117447' action='modify' lat='36.03912749371' lon='-75.67562969332' />
+  <node id='-117448' action='modify' lat='36.03963990794' lon='-75.67347480633' />
+  <node id='-117449' action='modify' lat='36.0395937045' lon='-75.67358239479' />
+  <node id='-117450' action='modify' lat='36.03965672674' lon='-75.67362342547' />
+  <node id='-117451' action='modify' lat='36.03970293022' lon='-75.67351583696' />
+  <node id='-117452' action='modify' lat='36.03562240615' lon='-75.67125727427' />
+  <node id='-117453' action='modify' lat='36.03558046952' lon='-75.67136239427' />
+  <node id='-117454' action='modify' lat='36.03562546229' lon='-75.67138960369' />
+  <node id='-117455' action='modify' lat='36.03563550398' lon='-75.67136443474' />
+  <node id='-117456' action='modify' lat='36.03567046615' lon='-75.67138557788' />
+  <node id='-117457' action='modify' lat='36.03570236203' lon='-75.67130562673' />
+  <node id='-117458' action='modify' lat='36.03749989831' lon='-75.67152647435' />
+  <node id='-117459' action='modify' lat='36.03737040207' lon='-75.67185382535' />
+  <node id='-117460' action='modify' lat='36.03741764536' lon='-75.67188215625' />
+  <node id='-117461' action='modify' lat='36.03754714168' lon='-75.67155480511' />
+  <node id='-117462' action='modify' lat='36.04078796719' lon='-75.67464781564' />
+  <node id='-117463' action='modify' lat='36.04074315777' lon='-75.67475570381' />
+  <node id='-117464' action='modify' lat='36.040752173' lon='-75.67476138089' />
+  <node id='-117465' action='modify' lat='36.04074783651' lon='-75.67477182143' />
+  <node id='-117466' action='modify' lat='36.04083430125' lon='-75.67482626623' />
+  <node id='-117467' action='modify' lat='36.04088344721' lon='-75.67470793742' />
+  <node id='-117468' action='modify' lat='36.03784225088' lon='-75.671120616' />
+  <node id='-117469' action='modify' lat='36.03777183192' lon='-75.67107659279' />
+  <node id='-117470' action='modify' lat='36.03776484074' lon='-75.67109354581' />
+  <node id='-117471' action='modify' lat='36.03776210784' lon='-75.67109183782' />
+  <node id='-117472' action='modify' lat='36.03775143707' lon='-75.67111771296' />
+  <node id='-117473' action='modify' lat='36.03775612038' lon='-75.67112064164' />
+  <node id='-117474' action='modify' lat='36.03773178528' lon='-75.67117965244' />
+  <node id='-117475' action='modify' lat='36.0377999566' lon='-75.67122227077' />
+  <node id='-117476' action='modify' lat='36.03781572044' lon='-75.67118404542' />
+  <node id='-117477' action='modify' lat='36.03781992025' lon='-75.67118667099' />
+  <node id='-117478' action='modify' lat='36.03783145463' lon='-75.67115869948' />
+  <node id='-117479' action='modify' lat='36.03782755113' lon='-75.67115625931' />
+  <node id='-117480' action='modify' lat='36.03952169371' lon='-75.67339656685' />
+  <node id='-117481' action='modify' lat='36.03947477048' lon='-75.67350964428' />
+  <node id='-117482' action='modify' lat='36.03953834712' lon='-75.67354964048' />
+  <node id='-117483' action='modify' lat='36.03958527039' lon='-75.67343656298' />
+  <node id='-117484' action='modify' lat='36.03756426464' lon='-75.6715659691' />
+  <node id='-117485' action='modify' lat='36.03742343422' lon='-75.67192812149' />
+  <node id='-117486' action='modify' lat='36.03750127561' lon='-75.67197401046' />
+  <node id='-117487' action='modify' lat='36.03764210616' lon='-75.6716118578' />
+  <node id='-117488' action='modify' lat='36.04067065895' lon='-75.67458278657' />
+  <node id='-117489' action='modify' lat='36.04062564173' lon='-75.67468608535' />
+  <node id='-117490' action='modify' lat='36.04069293473' lon='-75.67473054531' />
+  <node id='-117491' action='modify' lat='36.04073795108' lon='-75.6746272465' />
+  <node id='-117492' action='modify' lat='36.03548834366' lon='-75.67117878047' />
+  <node id='-117493' action='modify' lat='36.0354576005' lon='-75.67125688413' />
+  <node id='-117494' action='modify' lat='36.03549066746' lon='-75.67127661437' />
+  <node id='-117495' action='modify' lat='36.0354792488' lon='-75.6713056228' />
+  <node id='-117496' action='modify' lat='36.03552522885' lon='-75.67133305785' />
+  <node id='-117497' action='modify' lat='36.03556739075' lon='-75.6712259468' />
+  <node id='-117498' action='modify' lat='36.03889224916' lon='-75.67549998535' />
+  <node id='-117499' action='modify' lat='36.03876743588' lon='-75.67541580044' />
+  <node id='-117500' action='modify' lat='36.03873697169' lon='-75.67548427222' />
+  <node id='-117501' action='modify' lat='36.03878400701' lon='-75.67551599735' />
+  <node id='-117502' action='modify' lat='36.03877921417' lon='-75.67552676951' />
+  <node id='-117503' action='modify' lat='36.0388292846' lon='-75.67556054123' />
+  <node id='-117504' action='modify' lat='36.03883384797' lon='-75.67555028371' />
+  <node id='-117505' action='modify' lat='36.03886155638' lon='-75.67556897292' />
+  <node id='-117506' action='modify' lat='36.03765469805' lon='-75.67093821876' />
+  <node id='-117507' action='modify' lat='36.03758919646' lon='-75.67110336638' />
+  <node id='-117508' action='modify' lat='36.03764441986' lon='-75.67113657011' />
+  <node id='-117509' action='modify' lat='36.03766904702' lon='-75.67107447848' />
+  <node id='-117510' action='modify' lat='36.03771802714' lon='-75.67110392863' />
+  <node id='-117511' action='modify' lat='36.03776903057' lon='-75.67097533396' />
+  <node id='-117512' action='modify' lat='36.03771398589' lon='-75.67094223726' />
+  <node id='-117513' action='modify' lat='36.03770385606' lon='-75.67096777585' />
+  <node id='-117514' action='modify' lat='36.03943382486' lon='-75.67329637559' />
+  <node id='-117515' action='modify' lat='36.03937282778' lon='-75.67344054951' />
+  <node id='-117516' action='modify' lat='36.03944664668' lon='-75.67348789834' />
+  <node id='-117517' action='modify' lat='36.03950764471' lon='-75.67334372428' />
+  <node id='-117518' action='modify' lat='36.03540717521' lon='-75.67225322717' />
+  <node id='-117519' action='modify' lat='36.03528812441' lon='-75.6725726419' />
+  <node id='-117520' action='modify' lat='36.03529401248' lon='-75.67257596938' />
+  <node id='-117521' action='modify' lat='36.03523879485' lon='-75.67272411684' />
+  <node id='-117522' action='modify' lat='36.03537860505' lon='-75.67280310731' />
+  <node id='-117523' action='modify' lat='36.03537625285' lon='-75.67280941738' />
+  <node id='-117524' action='modify' lat='36.03585214199' lon='-75.67307829141' />
+  <node id='-117525' action='modify' lat='36.03587712171' lon='-75.67305702808' />
+  <node id='-117526' action='modify' lat='36.03604967783' lon='-75.67259405795' />
+  <node id='-117527' action='modify' lat='36.03543911695' lon='-75.67224909943' />
+  <node id='-117528' action='modify' lat='36.04033784643' lon='-75.67435929156' />
+  <node id='-117529' action='modify' lat='36.04028080694' lon='-75.67449465579' />
+  <node id='-117530' action='modify' lat='36.04035543042' lon='-75.67454232819' />
+  <node id='-117531' action='modify' lat='36.04041246997' lon='-75.67440696387' />
+  <node id='-117532' action='modify' lat='36.03756523217' lon='-75.67084727597' />
+  <node id='-117533' action='modify' lat='36.03752042462' lon='-75.67096196025' />
+  <node id='-117534' action='modify' lat='36.03758984646' lon='-75.67100307772' />
+  <node id='-117535' action='modify' lat='36.03763465404' lon='-75.67088839337' />
+  <node id='-117536' action='modify' lat='36.04061649077' lon='-75.6741030839' />
+  <node id='-117537' action='modify' lat='36.04058199438' lon='-75.67418728423' />
+  <node id='-117538' action='modify' lat='36.04065046502' lon='-75.67422981316' />
+  <node id='-117539' action='modify' lat='36.04066787057' lon='-75.67418733119' />
+  <node id='-117540' action='modify' lat='36.04069110872' lon='-75.67420176465' />
+  <node id='-117541' action='modify' lat='36.04072047836' lon='-75.67413007818' />
+  <node id='-117542' action='modify' lat='36.04064733785' lon='-75.67408464866' />
+  <node id='-117543' action='modify' lat='36.04063506002' lon='-75.67411461775' />
+  <node id='-117544' action='modify' lat='36.03786619844' lon='-75.67183173199' />
+  <node id='-117545' action='modify' lat='36.03784804506' lon='-75.6718208425' />
+  <node id='-117546' action='modify' lat='36.03786097449' lon='-75.67178816581' />
+  <node id='-117547' action='modify' lat='36.03779795015' lon='-75.6717503618' />
+  <node id='-117548' action='modify' lat='36.03773554086' lon='-75.67191485948' />
+  <node id='-117549' action='modify' lat='36.03781455405' lon='-75.67196225351' />
+  <node id='-117550' action='modify' lat='36.03917557013' lon='-75.67314577178' />
+  <node id='-117551' action='modify' lat='36.03912674658' lon='-75.67326137998' />
+  <node id='-117552' action='modify' lat='36.03921550708' lon='-75.67331820775' />
+  <node id='-117553' action='modify' lat='36.03927952082' lon='-75.67316663033' />
+  <node id='-117554' action='modify' lat='36.03923482389' lon='-75.67313801305' />
+  <node id='-117555' action='modify' lat='36.03921963289' lon='-75.67317398331' />
+  <node id='-117556' action='modify' lat='36.03891181178' lon='-75.67512682639' />
+  <node id='-117557' action='modify' lat='36.03883522192' lon='-75.67508025468' />
+  <node id='-117558' action='modify' lat='36.03882408849' lon='-75.67510801398' />
+  <node id='-117559' action='modify' lat='36.03881960284' lon='-75.67510528673' />
+  <node id='-117560' action='modify' lat='36.03878681461' lon='-75.67518703377' />
+  <node id='-117561' action='modify' lat='36.0388690995' lon='-75.67523706791' />
+  <node id='-117562' action='modify' lat='36.03887983528' lon='-75.67521030208' />
+  <node id='-117563' action='modify' lat='36.03888834353' lon='-75.67521547593' />
+  <node id='-117564' action='modify' lat='36.03889940865' lon='-75.67518788932' />
+  <node id='-117565' action='modify' lat='36.03889133595' lon='-75.67518298062' />
+  <node id='-117566' action='modify' lat='36.03595099443' lon='-75.67003162511' />
+  <node id='-117567' action='modify' lat='36.03593743073' lon='-75.67006566206' />
+  <node id='-117568' action='modify' lat='36.03599227372' lon='-75.67009879131' />
+  <node id='-117569' action='modify' lat='36.03600248575' lon='-75.67007316538' />
+  <node id='-117570' action='modify' lat='36.03602671749' lon='-75.67008780337' />
+  <node id='-117571' action='modify' lat='36.03610389532' lon='-75.66989412821' />
+  <node id='-117572' action='modify' lat='36.03603198123' lon='-75.66985068727' />
+  <node id='-117573' action='modify' lat='36.03595815603' lon='-75.67003595124' />
+  <node id='-117574' action='modify' lat='36.03741540412' lon='-75.67082064495' />
+  <node id='-117575' action='modify' lat='36.03737800551' lon='-75.67091428077' />
+  <node id='-117576' action='modify' lat='36.03745179144' lon='-75.67095895507' />
+  <node id='-117577' action='modify' lat='36.03750053404' lon='-75.67083691483' />
+  <node id='-117578' action='modify' lat='36.0374606483' lon='-75.67081276501' />
+  <node id='-117579' action='modify' lat='36.03744930345' lon='-75.67084116939' />
+  <node id='-117580' action='modify' lat='36.04027459137' lon='-75.67433649877' />
+  <node id='-117581' action='modify' lat='36.04024963315' lon='-75.67432075731' />
+  <node id='-117582' action='modify' lat='36.04026003019' lon='-75.67429576694' />
+  <node id='-117583' action='modify' lat='36.04020621522' lon='-75.6742618257' />
+  <node id='-117584' action='modify' lat='36.04019543057' lon='-75.67428774918' />
+  <node id='-117585' action='modify' lat='36.0401922633' lon='-75.6742857514' />
+  <node id='-117586' action='modify' lat='36.04015251276' lon='-75.67438130225' />
+  <node id='-117587' action='modify' lat='36.04017424958' lon='-75.67439501152' />
+  <node id='-117588' action='modify' lat='36.04016414032' lon='-75.67441931157' />
+  <node id='-117589' action='modify' lat='36.04022434389' lon='-75.67445728176' />
+  <node id='-117590' action='modify' lat='36.03798432401' lon='-75.67193653378' />
+  <node id='-117591' action='modify' lat='36.03794865626' lon='-75.67191547002' />
+  <node id='-117592' action='modify' lat='36.03795522617' lon='-75.6718986066' />
+  <node id='-117593' action='modify' lat='36.03791651103' lon='-75.67187574345' />
+  <node id='-117594' action='modify' lat='36.03783755705' lon='-75.67207841876' />
+  <node id='-117595' action='modify' lat='36.03791193896' lon='-75.67212234584' />
+  <node id='-117596' action='modify' lat='36.0359094516' lon='-75.66976945502' />
+  <node id='-117597' action='modify' lat='36.03583009533' lon='-75.66997136915' />
+  <node id='-117598' action='modify' lat='36.03590367952' lon='-75.67001520961' />
+  <node id='-117599' action='modify' lat='36.03598303674' lon='-75.6698132942' />
+  <node id='-117600' action='modify' lat='36.04080327592' lon='-75.67423302384' />
+  <node id='-117601' action='modify' lat='36.04077215108' lon='-75.67421283012' />
+  <node id='-117602' action='modify' lat='36.0407824955' lon='-75.67418865672' />
+  <node id='-117603' action='modify' lat='36.04074040457' lon='-75.67416134981' />
+  <node id='-117604' action='modify' lat='36.04068715453' lon='-75.6742857828' />
+  <node id='-117605' action='modify' lat='36.04075969097' lon='-75.67433284298' />
+  <node id='-117606' action='modify' lat='36.04077238141' lon='-75.67430318883' />
+  <node id='-117607' action='modify' lat='36.04077892564' lon='-75.67430743447' />
+  <node id='-117608' action='modify' lat='36.04078828325' lon='-75.67428556909' />
+  <node id='-117609' action='modify' lat='36.04078241832' lon='-75.67428176398' />
+  <node id='-117610' action='modify' lat='36.03944919364' lon='-75.67282515092' />
+  <node id='-117611' action='modify' lat='36.03944187642' lon='-75.67284252508' />
+  <node id='-117612' action='modify' lat='36.0394491457' lon='-75.67284716696' />
+  <node id='-117613' action='modify' lat='36.03943899786' lon='-75.67287126429' />
+  <node id='-117614' action='modify' lat='36.03950280684' lon='-75.67291200206' />
+  <node id='-117615' action='modify' lat='36.03954926453' lon='-75.67280168479' />
+  <node id='-117616' action='modify' lat='36.03948571614' lon='-75.67276111286' />
+  <node id='-117617' action='modify' lat='36.03945672353' lon='-75.67282995858' />
+  <node id='-117618' action='modify' lat='36.03902334837' lon='-75.67502119106' />
+  <node id='-117619' action='modify' lat='36.03889386486' lon='-75.67493688632' />
+  <node id='-117620' action='modify' lat='36.03886342662' lon='-75.67500776' />
+  <node id='-117621' action='modify' lat='36.0389386775' lon='-75.67505675517' />
+  <node id='-117622' action='modify' lat='36.03893230033' lon='-75.67507160426' />
+  <node id='-117623' action='modify' lat='36.038986532' lon='-75.67510691396' />
+  <way id='-116247' action='modify'>
+    <nd ref='-116419' />
+    <nd ref='-116420' />
+    <nd ref='-116421' />
+    <nd ref='-116422' />
+    <nd ref='-116419' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1903' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1987' />
+  </way>
+  <way id='-116248' action='modify'>
+    <nd ref='-116423' />
+    <nd ref='-116424' />
+    <nd ref='-116425' />
+    <nd ref='-116426' />
+    <nd ref='-116423' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1817' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116249' action='modify'>
+    <nd ref='-116427' />
+    <nd ref='-116428' />
+    <nd ref='-116429' />
+    <nd ref='-116430' />
+    <nd ref='-116427' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116250' action='modify'>
+    <nd ref='-116431' />
+    <nd ref='-116432' />
+    <nd ref='-116433' />
+    <nd ref='-116434' />
+    <nd ref='-116435' />
+    <nd ref='-116436' />
+    <nd ref='-116437' />
+    <nd ref='-116438' />
+    <nd ref='-116431' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2004' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1946' />
+  </way>
+  <way id='-116251' action='modify'>
+    <nd ref='-116439' />
+    <nd ref='-116440' />
+    <nd ref='-116441' />
+    <nd ref='-116442' />
+    <nd ref='-116443' />
+    <nd ref='-116444' />
+    <nd ref='-116445' />
+    <nd ref='-116446' />
+    <nd ref='-116447' />
+    <nd ref='-116448' />
+    <nd ref='-116439' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2018' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1956' />
+  </way>
+  <way id='-116252' action='modify'>
+    <nd ref='-116449' />
+    <nd ref='-116450' />
+    <nd ref='-116451' />
+    <nd ref='-116452' />
+    <nd ref='-116449' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1975' />
+  </way>
+  <way id='-116253' action='modify'>
+    <nd ref='-116453' />
+    <nd ref='-116454' />
+    <nd ref='-116455' />
+    <nd ref='-116456' />
+    <nd ref='-116453' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2016' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116254' action='modify'>
+    <nd ref='-116457' />
+    <nd ref='-116458' />
+    <nd ref='-116459' />
+    <nd ref='-116460' />
+    <nd ref='-116461' />
+    <nd ref='-116462' />
+    <nd ref='-116463' />
+    <nd ref='-116464' />
+    <nd ref='-116465' />
+    <nd ref='-116466' />
+    <nd ref='-116467' />
+    <nd ref='-116468' />
+    <nd ref='-116469' />
+    <nd ref='-116470' />
+    <nd ref='-116457' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2029' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1994' />
+  </way>
+  <way id='-116255' action='modify'>
+    <nd ref='-116471' />
+    <nd ref='-116472' />
+    <nd ref='-116473' />
+    <nd ref='-116474' />
+    <nd ref='-116475' />
+    <nd ref='-116476' />
+    <nd ref='-116477' />
+    <nd ref='-116478' />
+    <nd ref='-116479' />
+    <nd ref='-116480' />
+    <nd ref='-116481' />
+    <nd ref='-116482' />
+    <nd ref='-116483' />
+    <nd ref='-116484' />
+    <nd ref='-116471' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2000' />
+  </way>
+  <way id='-116256' action='modify'>
+    <nd ref='-116485' />
+    <nd ref='-116486' />
+    <nd ref='-116487' />
+    <nd ref='-116488' />
+    <nd ref='-116485' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1981' />
+  </way>
+  <way id='-116257' action='modify'>
+    <nd ref='-116489' />
+    <nd ref='-116490' />
+    <nd ref='-116491' />
+    <nd ref='-116492' />
+    <nd ref='-116493' />
+    <nd ref='-116494' />
+    <nd ref='-116495' />
+    <nd ref='-116496' />
+    <nd ref='-116497' />
+    <nd ref='-116498' />
+    <nd ref='-116489' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2006' />
+  </way>
+  <way id='-116258' action='modify'>
+    <nd ref='-116499' />
+    <nd ref='-116500' />
+    <nd ref='-116501' />
+    <nd ref='-116502' />
+    <nd ref='-116499' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2031' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1966' />
+  </way>
+  <way id='-116259' action='modify'>
+    <nd ref='-116503' />
+    <nd ref='-116504' />
+    <nd ref='-116505' />
+    <nd ref='-116506' />
+    <nd ref='-116503' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1972' />
+  </way>
+  <way id='-116260' action='modify'>
+    <nd ref='-116507' />
+    <nd ref='-116508' />
+    <nd ref='-116509' />
+    <nd ref='-116510' />
+    <nd ref='-116511' />
+    <nd ref='-116512' />
+    <nd ref='-116513' />
+    <nd ref='-116514' />
+    <nd ref='-116507' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1999' />
+  </way>
+  <way id='-116261' action='modify'>
+    <nd ref='-116515' />
+    <nd ref='-116516' />
+    <nd ref='-116517' />
+    <nd ref='-116518' />
+    <nd ref='-116515' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1982' />
+  </way>
+  <way id='-116262' action='modify'>
+    <nd ref='-116519' />
+    <nd ref='-116520' />
+    <nd ref='-116521' />
+    <nd ref='-116522' />
+    <nd ref='-116523' />
+    <nd ref='-116524' />
+    <nd ref='-116525' />
+    <nd ref='-116526' />
+    <nd ref='-116527' />
+    <nd ref='-116528' />
+    <nd ref='-116529' />
+    <nd ref='-116530' />
+    <nd ref='-116531' />
+    <nd ref='-116532' />
+    <nd ref='-116533' />
+    <nd ref='-116534' />
+    <nd ref='-116535' />
+    <nd ref='-116536' />
+    <nd ref='-116537' />
+    <nd ref='-116538' />
+    <nd ref='-116519' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1803' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1981' />
+  </way>
+  <way id='-116263' action='modify'>
+    <nd ref='-116539' />
+    <nd ref='-116540' />
+    <nd ref='-116541' />
+    <nd ref='-116542' />
+    <nd ref='-116543' />
+    <nd ref='-116544' />
+    <nd ref='-116545' />
+    <nd ref='-116546' />
+    <nd ref='-116539' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1999' />
+  </way>
+  <way id='-116264' action='modify'>
+    <nd ref='-116547' />
+    <nd ref='-116548' />
+    <nd ref='-116549' />
+    <nd ref='-116550' />
+    <nd ref='-116547' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116265' action='modify'>
+    <nd ref='-116551' />
+    <nd ref='-116552' />
+    <nd ref='-116553' />
+    <nd ref='-116554' />
+    <nd ref='-116555' />
+    <nd ref='-116556' />
+    <nd ref='-116557' />
+    <nd ref='-116558' />
+    <nd ref='-116551' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2033' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1967' />
+  </way>
+  <way id='-116266' action='modify'>
+    <nd ref='-116559' />
+    <nd ref='-116560' />
+    <nd ref='-116561' />
+    <nd ref='-116562' />
+    <nd ref='-116563' />
+    <nd ref='-116564' />
+    <nd ref='-116559' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1955' />
+  </way>
+  <way id='-116267' action='modify'>
+    <nd ref='-116565' />
+    <nd ref='-116566' />
+    <nd ref='-116567' />
+    <nd ref='-116568' />
+    <nd ref='-116569' />
+    <nd ref='-116570' />
+    <nd ref='-116571' />
+    <nd ref='-116572' />
+    <nd ref='-116565' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1993' />
+  </way>
+  <way id='-116268' action='modify'>
+    <nd ref='-116573' />
+    <nd ref='-116574' />
+    <nd ref='-116575' />
+    <nd ref='-116576' />
+    <nd ref='-116573' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1957' />
+  </way>
+  <way id='-116269' action='modify'>
+    <nd ref='-116577' />
+    <nd ref='-116578' />
+    <nd ref='-116579' />
+    <nd ref='-116580' />
+    <nd ref='-116581' />
+    <nd ref='-116582' />
+    <nd ref='-116583' />
+    <nd ref='-116584' />
+    <nd ref='-116577' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2035' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116270' action='modify'>
+    <nd ref='-116585' />
+    <nd ref='-116586' />
+    <nd ref='-116587' />
+    <nd ref='-116588' />
+    <nd ref='-116589' />
+    <nd ref='-116590' />
+    <nd ref='-116591' />
+    <nd ref='-116592' />
+    <nd ref='-116593' />
+    <nd ref='-116594' />
+    <nd ref='-116595' />
+    <nd ref='-116596' />
+    <nd ref='-116597' />
+    <nd ref='-116598' />
+    <nd ref='-116599' />
+    <nd ref='-116600' />
+    <nd ref='-116585' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1961' />
+  </way>
+  <way id='-116271' action='modify'>
+    <nd ref='-116601' />
+    <nd ref='-116602' />
+    <nd ref='-116603' />
+    <nd ref='-116604' />
+    <nd ref='-116601' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116272' action='modify'>
+    <nd ref='-116605' />
+    <nd ref='-116606' />
+    <nd ref='-116607' />
+    <nd ref='-116608' />
+    <nd ref='-116609' />
+    <nd ref='-116610' />
+    <nd ref='-116611' />
+    <nd ref='-116612' />
+    <nd ref='-116613' />
+    <nd ref='-116605' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116273' action='modify'>
+    <nd ref='-116614' />
+    <nd ref='-116615' />
+    <nd ref='-116616' />
+    <nd ref='-116617' />
+    <nd ref='-116614' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1985' />
+  </way>
+  <way id='-116274' action='modify'>
+    <nd ref='-116618' />
+    <nd ref='-116619' />
+    <nd ref='-116620' />
+    <nd ref='-116621' />
+    <nd ref='-116618' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1982' />
+  </way>
+  <way id='-116275' action='modify'>
+    <nd ref='-116622' />
+    <nd ref='-116623' />
+    <nd ref='-116624' />
+    <nd ref='-116625' />
+    <nd ref='-116626' />
+    <nd ref='-116627' />
+    <nd ref='-116628' />
+    <nd ref='-116629' />
+    <nd ref='-116630' />
+    <nd ref='-116631' />
+    <nd ref='-116632' />
+    <nd ref='-116622' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2037' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116276' action='modify'>
+    <nd ref='-116633' />
+    <nd ref='-116634' />
+    <nd ref='-116635' />
+    <nd ref='-116636' />
+    <nd ref='-116633' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2000' />
+  </way>
+  <way id='-116277' action='modify'>
+    <nd ref='-116637' />
+    <nd ref='-116638' />
+    <nd ref='-116639' />
+    <nd ref='-116640' />
+    <nd ref='-116637' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1970' />
+  </way>
+  <way id='-116278' action='modify'>
+    <nd ref='-116641' />
+    <nd ref='-116642' />
+    <nd ref='-116643' />
+    <nd ref='-116644' />
+    <nd ref='-116645' />
+    <nd ref='-116646' />
+    <nd ref='-116647' />
+    <nd ref='-116648' />
+    <nd ref='-116641' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116279' action='modify'>
+    <nd ref='-116649' />
+    <nd ref='-116650' />
+    <nd ref='-116651' />
+    <nd ref='-116652' />
+    <nd ref='-116649' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2039' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2005' />
+  </way>
+  <way id='-116280' action='modify'>
+    <nd ref='-116653' />
+    <nd ref='-116654' />
+    <nd ref='-116655' />
+    <nd ref='-116656' />
+    <nd ref='-116653' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116281' action='modify'>
+    <nd ref='-116657' />
+    <nd ref='-116658' />
+    <nd ref='-116659' />
+    <nd ref='-116660' />
+    <nd ref='-116657' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1973' />
+  </way>
+  <way id='-116282' action='modify'>
+    <nd ref='-116661' />
+    <nd ref='-116662' />
+    <nd ref='-116663' />
+    <nd ref='-116664' />
+    <nd ref='-116661' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1989' />
+  </way>
+  <way id='-116283' action='modify'>
+    <nd ref='-116665' />
+    <nd ref='-116666' />
+    <nd ref='-116667' />
+    <nd ref='-116668' />
+    <nd ref='-116665' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116284' action='modify'>
+    <nd ref='-116669' />
+    <nd ref='-116670' />
+    <nd ref='-116671' />
+    <nd ref='-116672' />
+    <nd ref='-116669' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greensboro Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1972' />
+  </way>
+  <way id='-116285' action='modify'>
+    <nd ref='-116673' />
+    <nd ref='-116674' />
+    <nd ref='-116675' />
+    <nd ref='-116676' />
+    <nd ref='-116677' />
+    <nd ref='-116678' />
+    <nd ref='-116679' />
+    <nd ref='-116680' />
+    <nd ref='-116681' />
+    <nd ref='-116682' />
+    <nd ref='-116673' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2009' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116286' action='modify'>
+    <nd ref='-116683' />
+    <nd ref='-116684' />
+    <nd ref='-116685' />
+    <nd ref='-116686' />
+    <nd ref='-116687' />
+    <nd ref='-116688' />
+    <nd ref='-116689' />
+    <nd ref='-116690' />
+    <nd ref='-116691' />
+    <nd ref='-116692' />
+    <nd ref='-116683' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2006' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2002' />
+  </way>
+  <way id='-116287' action='modify'>
+    <nd ref='-116693' />
+    <nd ref='-116694' />
+    <nd ref='-116695' />
+    <nd ref='-116696' />
+    <nd ref='-116697' />
+    <nd ref='-116698' />
+    <nd ref='-116699' />
+    <nd ref='-116700' />
+    <nd ref='-116701' />
+    <nd ref='-116702' />
+    <nd ref='-116693' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Rocky Mount Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1999' />
+  </way>
+  <way id='-116288' action='modify'>
+    <nd ref='-116703' />
+    <nd ref='-116704' />
+    <nd ref='-116705' />
+    <nd ref='-116706' />
+    <nd ref='-116707' />
+    <nd ref='-116708' />
+    <nd ref='-116709' />
+    <nd ref='-116710' />
+    <nd ref='-116711' />
+    <nd ref='-116712' />
+    <nd ref='-116713' />
+    <nd ref='-116714' />
+    <nd ref='-116703' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2041' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1956' />
+  </way>
+  <way id='-116289' action='modify'>
+    <nd ref='-116715' />
+    <nd ref='-116716' />
+    <nd ref='-116717' />
+    <nd ref='-116718' />
+    <nd ref='-116719' />
+    <nd ref='-116720' />
+    <nd ref='-116721' />
+    <nd ref='-116722' />
+    <nd ref='-116723' />
+    <nd ref='-116724' />
+    <nd ref='-116725' />
+    <nd ref='-116726' />
+    <nd ref='-116715' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1901' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1987' />
+  </way>
+  <way id='-116290' action='modify'>
+    <nd ref='-116727' />
+    <nd ref='-116728' />
+    <nd ref='-116729' />
+    <nd ref='-116730' />
+    <nd ref='-116727' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1972' />
+  </way>
+  <way id='-116291' action='modify'>
+    <nd ref='-116731' />
+    <nd ref='-116732' />
+    <nd ref='-116733' />
+    <nd ref='-116734' />
+    <nd ref='-116731' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2007' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1988' />
+  </way>
+  <way id='-116292' action='modify'>
+    <nd ref='-116735' />
+    <nd ref='-116736' />
+    <nd ref='-116737' />
+    <nd ref='-116738' />
+    <nd ref='-116739' />
+    <nd ref='-116740' />
+    <nd ref='-116741' />
+    <nd ref='-116742' />
+    <nd ref='-116743' />
+    <nd ref='-116744' />
+    <nd ref='-116735' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2008' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2002' />
+  </way>
+  <way id='-116293' action='modify'>
+    <nd ref='-116745' />
+    <nd ref='-116746' />
+    <nd ref='-116747' />
+    <nd ref='-116748' />
+    <nd ref='-116745' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1965' />
+  </way>
+  <way id='-116294' action='modify'>
+    <nd ref='-116749' />
+    <nd ref='-116750' />
+    <nd ref='-116751' />
+    <nd ref='-116752' />
+    <nd ref='-116753' />
+    <nd ref='-116754' />
+    <nd ref='-116755' />
+    <nd ref='-116756' />
+    <nd ref='-116749' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2043' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1971' />
+  </way>
+  <way id='-116295' action='modify'>
+    <nd ref='-116757' />
+    <nd ref='-116758' />
+    <nd ref='-116759' />
+    <nd ref='-116760' />
+    <nd ref='-116761' />
+    <nd ref='-116762' />
+    <nd ref='-116757' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1837' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2001' />
+  </way>
+  <way id='-116296' action='modify'>
+    <nd ref='-116763' />
+    <nd ref='-116764' />
+    <nd ref='-116765' />
+    <nd ref='-116766' />
+    <nd ref='-116767' />
+    <nd ref='-116768' />
+    <nd ref='-116769' />
+    <nd ref='-116770' />
+    <nd ref='-116763' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1918' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116297' action='modify'>
+    <nd ref='-116771' />
+    <nd ref='-116772' />
+    <nd ref='-116773' />
+    <nd ref='-116774' />
+    <nd ref='-116775' />
+    <nd ref='-116776' />
+    <nd ref='-116777' />
+    <nd ref='-116778' />
+    <nd ref='-116779' />
+    <nd ref='-116780' />
+    <nd ref='-116771' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Rocky Mount Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1985' />
+  </way>
+  <way id='-116298' action='modify'>
+    <nd ref='-116781' />
+    <nd ref='-116782' />
+    <nd ref='-116783' />
+    <nd ref='-116784' />
+    <nd ref='-116785' />
+    <nd ref='-116786' />
+    <nd ref='-116787' />
+    <nd ref='-116788' />
+    <nd ref='-116781' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2005' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1955' />
+  </way>
+  <way id='-116299' action='modify'>
+    <nd ref='-116789' />
+    <nd ref='-116790' />
+    <nd ref='-116791' />
+    <nd ref='-116792' />
+    <nd ref='-116789' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2045' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116300' action='modify'>
+    <nd ref='-116793' />
+    <nd ref='-116794' />
+    <nd ref='-116795' />
+    <nd ref='-116796' />
+    <nd ref='-116793' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2010' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116301' action='modify'>
+    <nd ref='-116797' />
+    <nd ref='-116798' />
+    <nd ref='-116799' />
+    <nd ref='-116800' />
+    <nd ref='-116797' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116302' action='modify'>
+    <nd ref='-116801' />
+    <nd ref='-116802' />
+    <nd ref='-116803' />
+    <nd ref='-116804' />
+    <nd ref='-116805' />
+    <nd ref='-116806' />
+    <nd ref='-116801' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1835' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2001' />
+  </way>
+  <way id='-116303' action='modify'>
+    <nd ref='-116807' />
+    <nd ref='-116808' />
+    <nd ref='-116809' />
+    <nd ref='-116810' />
+    <nd ref='-116807' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2002' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1999' />
+  </way>
+  <way id='-116304' action='modify'>
+    <nd ref='-116811' />
+    <nd ref='-116812' />
+    <nd ref='-116813' />
+    <nd ref='-116814' />
+    <nd ref='-116811' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1977' />
+  </way>
+  <way id='-116305' action='modify'>
+    <nd ref='-116815' />
+    <nd ref='-116816' />
+    <nd ref='-116817' />
+    <nd ref='-116818' />
+    <nd ref='-116815' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2047' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116306' action='modify'>
+    <nd ref='-116819' />
+    <nd ref='-116820' />
+    <nd ref='-116821' />
+    <nd ref='-116822' />
+    <nd ref='-116823' />
+    <nd ref='-116824' />
+    <nd ref='-116825' />
+    <nd ref='-116826' />
+    <nd ref='-116827' />
+    <nd ref='-116828' />
+    <nd ref='-116829' />
+    <nd ref='-116830' />
+    <nd ref='-116819' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1920' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2001' />
+  </way>
+  <way id='-116307' action='modify'>
+    <nd ref='-116831' />
+    <nd ref='-116832' />
+    <nd ref='-116833' />
+    <nd ref='-116834' />
+    <nd ref='-116831' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116308' action='modify'>
+    <nd ref='-116835' />
+    <nd ref='-116836' />
+    <nd ref='-116837' />
+    <nd ref='-116838' />
+    <nd ref='-116839' />
+    <nd ref='-116840' />
+    <nd ref='-116841' />
+    <nd ref='-116842' />
+    <nd ref='-116843' />
+    <nd ref='-116844' />
+    <nd ref='-116845' />
+    <nd ref='-116846' />
+    <nd ref='-116847' />
+    <nd ref='-116848' />
+    <nd ref='-116835' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Rocky Mount Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1951' />
+  </way>
+  <way id='-116309' action='modify'>
+    <nd ref='-116849' />
+    <nd ref='-116850' />
+    <nd ref='-116851' />
+    <nd ref='-116852' />
+    <nd ref='-116849' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2000' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1996' />
+  </way>
+  <way id='-116310' action='modify'>
+    <nd ref='-116853' />
+    <nd ref='-116854' />
+    <nd ref='-116855' />
+    <nd ref='-116856' />
+    <nd ref='-116857' />
+    <nd ref='-116858' />
+    <nd ref='-116859' />
+    <nd ref='-116860' />
+    <nd ref='-116861' />
+    <nd ref='-116862' />
+    <nd ref='-116853' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1829' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1945' />
+  </way>
+  <way id='-116311' action='modify'>
+    <nd ref='-116863' />
+    <nd ref='-116864' />
+    <nd ref='-116865' />
+    <nd ref='-116866' />
+    <nd ref='-116863' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2006' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1964' />
+  </way>
+  <way id='-116312' action='modify'>
+    <nd ref='-116867' />
+    <nd ref='-116868' />
+    <nd ref='-116869' />
+    <nd ref='-116870' />
+    <nd ref='-116871' />
+    <nd ref='-116872' />
+    <nd ref='-116873' />
+    <nd ref='-116874' />
+    <nd ref='-116875' />
+    <nd ref='-116876' />
+    <nd ref='-116877' />
+    <nd ref='-116878' />
+    <nd ref='-116879' />
+    <nd ref='-116880' />
+    <nd ref='-116867' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1833' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1978' />
+  </way>
+  <way id='-116313' action='modify'>
+    <nd ref='-116881' />
+    <nd ref='-116882' />
+    <nd ref='-116883' />
+    <nd ref='-116884' />
+    <nd ref='-116885' />
+    <nd ref='-116886' />
+    <nd ref='-116887' />
+    <nd ref='-116888' />
+    <nd ref='-116889' />
+    <nd ref='-116890' />
+    <nd ref='-116891' />
+    <nd ref='-116892' />
+    <nd ref='-116893' />
+    <nd ref='-116894' />
+    <nd ref='-116895' />
+    <nd ref='-116896' />
+    <nd ref='-116881' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2001' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2005' />
+  </way>
+  <way id='-116314' action='modify'>
+    <nd ref='-116897' />
+    <nd ref='-116898' />
+    <nd ref='-116899' />
+    <nd ref='-116900' />
+    <nd ref='-116901' />
+    <nd ref='-116902' />
+    <nd ref='-116903' />
+    <nd ref='-116904' />
+    <nd ref='-116897' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2049' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116315' action='modify'>
+    <nd ref='-116905' />
+    <nd ref='-116906' />
+    <nd ref='-116907' />
+    <nd ref='-116908' />
+    <nd ref='-116905' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1976' />
+  </way>
+  <way id='-116316' action='modify'>
+    <nd ref='-116909' />
+    <nd ref='-116910' />
+    <nd ref='-116911' />
+    <nd ref='-116912' />
+    <nd ref='-116909' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1984' />
+  </way>
+  <way id='-116317' action='modify'>
+    <nd ref='-116913' />
+    <nd ref='-116914' />
+    <nd ref='-116915' />
+    <nd ref='-116916' />
+    <nd ref='-116913' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1937' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1987' />
+  </way>
+  <way id='-116318' action='modify'>
+    <nd ref='-116917' />
+    <nd ref='-116918' />
+    <nd ref='-116919' />
+    <nd ref='-116920' />
+    <nd ref='-116921' />
+    <nd ref='-116922' />
+    <nd ref='-116923' />
+    <nd ref='-116924' />
+    <nd ref='-116925' />
+    <nd ref='-116926' />
+    <nd ref='-116927' />
+    <nd ref='-116928' />
+    <nd ref='-116917' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1922' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1980' />
+  </way>
+  <way id='-116319' action='modify'>
+    <nd ref='-116929' />
+    <nd ref='-116930' />
+    <nd ref='-116931' />
+    <nd ref='-116932' />
+    <nd ref='-116929' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1981' />
+  </way>
+  <way id='-116320' action='modify'>
+    <nd ref='-116933' />
+    <nd ref='-116934' />
+    <nd ref='-116935' />
+    <nd ref='-116936' />
+    <nd ref='-116933' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1961' />
+  </way>
+  <way id='-116321' action='modify'>
+    <nd ref='-116937' />
+    <nd ref='-116938' />
+    <nd ref='-116939' />
+    <nd ref='-116940' />
+    <nd ref='-116941' />
+    <nd ref='-116942' />
+    <nd ref='-116943' />
+    <nd ref='-116944' />
+    <nd ref='-116945' />
+    <nd ref='-116946' />
+    <nd ref='-116937' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1825' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='1948' />
+  </way>
+  <way id='-116322' action='modify'>
+    <nd ref='-116947' />
+    <nd ref='-116948' />
+    <nd ref='-116949' />
+    <nd ref='-116950' />
+    <nd ref='-116951' />
+    <nd ref='-116952' />
+    <nd ref='-116953' />
+    <nd ref='-116954' />
+    <nd ref='-116955' />
+    <nd ref='-116956' />
+    <nd ref='-116947' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1966' />
+  </way>
+  <way id='-116323' action='modify'>
+    <nd ref='-116957' />
+    <nd ref='-116958' />
+    <nd ref='-116959' />
+    <nd ref='-116960' />
+    <nd ref='-116957' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1935' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1987' />
+  </way>
+  <way id='-116324' action='modify'>
+    <nd ref='-116961' />
+    <nd ref='-116962' />
+    <nd ref='-116963' />
+    <nd ref='-116964' />
+    <nd ref='-116965' />
+    <nd ref='-116966' />
+    <nd ref='-116967' />
+    <nd ref='-116968' />
+    <nd ref='-116969' />
+    <nd ref='-116970' />
+    <nd ref='-116971' />
+    <nd ref='-116972' />
+    <nd ref='-116961' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2012' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2004' />
+  </way>
+  <way id='-116325' action='modify'>
+    <nd ref='-116973' />
+    <nd ref='-116974' />
+    <nd ref='-116975' />
+    <nd ref='-116976' />
+    <nd ref='-116973' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1977' />
+  </way>
+  <way id='-116326' action='modify'>
+    <nd ref='-116977' />
+    <nd ref='-116978' />
+    <nd ref='-116979' />
+    <nd ref='-116980' />
+    <nd ref='-116977' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1961' />
+  </way>
+  <way id='-116327' action='modify'>
+    <nd ref='-116981' />
+    <nd ref='-116982' />
+    <nd ref='-116983' />
+    <nd ref='-116984' />
+    <nd ref='-116981' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116328' action='modify'>
+    <nd ref='-116985' />
+    <nd ref='-116986' />
+    <nd ref='-116987' />
+    <nd ref='-116988' />
+    <nd ref='-116985' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1933' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1969' />
+  </way>
+  <way id='-116329' action='modify'>
+    <nd ref='-116989' />
+    <nd ref='-116990' />
+    <nd ref='-116991' />
+    <nd ref='-116992' />
+    <nd ref='-116993' />
+    <nd ref='-116994' />
+    <nd ref='-116995' />
+    <nd ref='-116996' />
+    <nd ref='-116989' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1823' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116330' action='modify'>
+    <nd ref='-116997' />
+    <nd ref='-116998' />
+    <nd ref='-116999' />
+    <nd ref='-117000' />
+    <nd ref='-116997' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116331' action='modify'>
+    <nd ref='-117001' />
+    <nd ref='-117002' />
+    <nd ref='-117003' />
+    <nd ref='-117004' />
+    <nd ref='-117001' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2012' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1972' />
+  </way>
+  <way id='-116332' action='modify'>
+    <nd ref='-117005' />
+    <nd ref='-117006' />
+    <nd ref='-117007' />
+    <nd ref='-117008' />
+    <nd ref='-117009' />
+    <nd ref='-117010' />
+    <nd ref='-117011' />
+    <nd ref='-117012' />
+    <nd ref='-117013' />
+    <nd ref='-117014' />
+    <nd ref='-117015' />
+    <nd ref='-117016' />
+    <nd ref='-117005' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1924' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1982' />
+  </way>
+  <way id='-116333' action='modify'>
+    <nd ref='-117017' />
+    <nd ref='-117018' />
+    <nd ref='-117019' />
+    <nd ref='-117020' />
+    <nd ref='-117021' />
+    <nd ref='-117022' />
+    <nd ref='-117017' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2014' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1987' />
+  </way>
+  <way id='-116334' action='modify'>
+    <nd ref='-117023' />
+    <nd ref='-117024' />
+    <nd ref='-117025' />
+    <nd ref='-117026' />
+    <nd ref='-117027' />
+    <nd ref='-117028' />
+    <nd ref='-117023' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1967' />
+  </way>
+  <way id='-116335' action='modify'>
+    <nd ref='-117029' />
+    <nd ref='-117030' />
+    <nd ref='-117031' />
+    <nd ref='-117032' />
+    <nd ref='-117029' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1983' />
+  </way>
+  <way id='-116336' action='modify'>
+    <nd ref='-117033' />
+    <nd ref='-117034' />
+    <nd ref='-117035' />
+    <nd ref='-117036' />
+    <nd ref='-117033' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1967' />
+  </way>
+  <way id='-116337' action='modify'>
+    <nd ref='-117037' />
+    <nd ref='-117038' />
+    <nd ref='-117039' />
+    <nd ref='-117040' />
+    <nd ref='-117037' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1828' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1971' />
+  </way>
+  <way id='-116338' action='modify'>
+    <nd ref='-117041' />
+    <nd ref='-117042' />
+    <nd ref='-117043' />
+    <nd ref='-117044' />
+    <nd ref='-117045' />
+    <nd ref='-117046' />
+    <nd ref='-117047' />
+    <nd ref='-117048' />
+    <nd ref='-117049' />
+    <nd ref='-117050' />
+    <nd ref='-117041' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2004' />
+  </way>
+  <way id='-116339' action='modify'>
+    <nd ref='-117051' />
+    <nd ref='-117052' />
+    <nd ref='-117053' />
+    <nd ref='-117054' />
+    <nd ref='-117055' />
+    <nd ref='-117056' />
+    <nd ref='-117051' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1926' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1998' />
+  </way>
+  <way id='-116340' action='modify'>
+    <nd ref='-117057' />
+    <nd ref='-117058' />
+    <nd ref='-117059' />
+    <nd ref='-117060' />
+    <nd ref='-117057' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1967' />
+  </way>
+  <way id='-116341' action='modify'>
+    <nd ref='-117061' />
+    <nd ref='-117062' />
+    <nd ref='-117063' />
+    <nd ref='-117064' />
+    <nd ref='-117061' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1970' />
+  </way>
+  <way id='-116342' action='modify'>
+    <nd ref='-117065' />
+    <nd ref='-117066' />
+    <nd ref='-117067' />
+    <nd ref='-117068' />
+    <nd ref='-117065' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1930' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1990' />
+  </way>
+  <way id='-116343' action='modify'>
+    <nd ref='-117069' />
+    <nd ref='-117070' />
+    <nd ref='-117071' />
+    <nd ref='-117072' />
+    <nd ref='-117073' />
+    <nd ref='-117074' />
+    <nd ref='-117069' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1969' />
+  </way>
+  <way id='-116344' action='modify'>
+    <nd ref='-117075' />
+    <nd ref='-117076' />
+    <nd ref='-117077' />
+    <nd ref='-117078' />
+    <nd ref='-117075' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1974' />
+  </way>
+  <way id='-116345' action='modify'>
+    <nd ref='-117079' />
+    <nd ref='-117080' />
+    <nd ref='-117081' />
+    <nd ref='-117082' />
+    <nd ref='-117083' />
+    <nd ref='-117084' />
+    <nd ref='-117085' />
+    <nd ref='-117086' />
+    <nd ref='-117087' />
+    <nd ref='-117088' />
+    <nd ref='-117089' />
+    <nd ref='-117090' />
+    <nd ref='-117091' />
+    <nd ref='-117092' />
+    <nd ref='-117093' />
+    <nd ref='-117094' />
+    <nd ref='-117095' />
+    <nd ref='-117096' />
+    <nd ref='-117079' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1931' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1952' />
+  </way>
+  <way id='-116346' action='modify'>
+    <nd ref='-117097' />
+    <nd ref='-117098' />
+    <nd ref='-117099' />
+    <nd ref='-117100' />
+    <nd ref='-117097' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1958' />
+  </way>
+  <way id='-116347' action='modify'>
+    <nd ref='-117101' />
+    <nd ref='-117102' />
+    <nd ref='-117103' />
+    <nd ref='-117104' />
+    <nd ref='-117101' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1970' />
+  </way>
+  <way id='-116348' action='modify'>
+    <nd ref='-117105' />
+    <nd ref='-117106' />
+    <nd ref='-117107' />
+    <nd ref='-117108' />
+    <nd ref='-117109' />
+    <nd ref='-117110' />
+    <nd ref='-117111' />
+    <nd ref='-117112' />
+    <nd ref='-117113' />
+    <nd ref='-117114' />
+    <nd ref='-117115' />
+    <nd ref='-117116' />
+    <nd ref='-117117' />
+    <nd ref='-117118' />
+    <nd ref='-117119' />
+    <nd ref='-117120' />
+    <nd ref='-117121' />
+    <nd ref='-117122' />
+    <nd ref='-117123' />
+    <nd ref='-117124' />
+    <nd ref='-117125' />
+    <nd ref='-117126' />
+    <nd ref='-117127' />
+    <nd ref='-117128' />
+    <nd ref='-117105' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1901' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Croatan Highway' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='1992' />
+  </way>
+  <way id='-116349' action='modify'>
+    <nd ref='-117129' />
+    <nd ref='-117130' />
+    <nd ref='-117131' />
+    <nd ref='-117132' />
+    <nd ref='-117133' />
+    <nd ref='-117134' />
+    <nd ref='-117135' />
+    <nd ref='-117136' />
+    <nd ref='-117137' />
+    <nd ref='-117138' />
+    <nd ref='-117139' />
+    <nd ref='-117140' />
+    <nd ref='-117141' />
+    <nd ref='-117142' />
+    <nd ref='-117129' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1826' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1944' />
+  </way>
+  <way id='-116350' action='modify'>
+    <nd ref='-117143' />
+    <nd ref='-117144' />
+    <nd ref='-117145' />
+    <nd ref='-117146' />
+    <nd ref='-117147' />
+    <nd ref='-117148' />
+    <nd ref='-117149' />
+    <nd ref='-117150' />
+    <nd ref='-117151' />
+    <nd ref='-117152' />
+    <nd ref='-117153' />
+    <nd ref='-117154' />
+    <nd ref='-117155' />
+    <nd ref='-117156' />
+    <nd ref='-117143' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1965' />
+  </way>
+  <way id='-116351' action='modify'>
+    <nd ref='-117157' />
+    <nd ref='-117158' />
+    <nd ref='-117159' />
+    <nd ref='-117160' />
+    <nd ref='-117157' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1964' />
+  </way>
+  <way id='-116352' action='modify'>
+    <nd ref='-117161' />
+    <nd ref='-117162' />
+    <nd ref='-117163' />
+    <nd ref='-117164' />
+    <nd ref='-117165' />
+    <nd ref='-117166' />
+    <nd ref='-117167' />
+    <nd ref='-117168' />
+    <nd ref='-117169' />
+    <nd ref='-117170' />
+    <nd ref='-117161' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1932' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1999' />
+  </way>
+  <way id='-116353' action='modify'>
+    <nd ref='-117171' />
+    <nd ref='-117172' />
+    <nd ref='-117173' />
+    <nd ref='-117174' />
+    <nd ref='-117175' />
+    <nd ref='-117176' />
+    <nd ref='-117177' />
+    <nd ref='-117178' />
+    <nd ref='-117179' />
+    <nd ref='-117180' />
+    <nd ref='-117181' />
+    <nd ref='-117182' />
+    <nd ref='-117171' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1925' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1950' />
+  </way>
+  <way id='-116354' action='modify'>
+    <nd ref='-117183' />
+    <nd ref='-117184' />
+    <nd ref='-117185' />
+    <nd ref='-117186' />
+    <nd ref='-117187' />
+    <nd ref='-117188' />
+    <nd ref='-117189' />
+    <nd ref='-117190' />
+    <nd ref='-117183' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2005' />
+  </way>
+  <way id='-116355' action='modify'>
+    <nd ref='-117191' />
+    <nd ref='-117192' />
+    <nd ref='-117193' />
+    <nd ref='-117194' />
+    <nd ref='-117195' />
+    <nd ref='-117196' />
+    <nd ref='-117197' />
+    <nd ref='-117198' />
+    <nd ref='-117191' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116356' action='modify'>
+    <nd ref='-117199' />
+    <nd ref='-117200' />
+    <nd ref='-117201' />
+    <nd ref='-117202' />
+    <nd ref='-117203' />
+    <nd ref='-117204' />
+    <nd ref='-117205' />
+    <nd ref='-117206' />
+    <nd ref='-117199' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2036' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1956' />
+  </way>
+  <way id='-116357' action='modify'>
+    <nd ref='-117207' />
+    <nd ref='-117208' />
+    <nd ref='-117209' />
+    <nd ref='-117210' />
+    <nd ref='-117207' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1923' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1979' />
+  </way>
+  <way id='-116358' action='modify'>
+    <nd ref='-117211' />
+    <nd ref='-117212' />
+    <nd ref='-117213' />
+    <nd ref='-117214' />
+    <nd ref='-117211' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2038' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1985' />
+  </way>
+  <way id='-116359' action='modify'>
+    <nd ref='-117215' />
+    <nd ref='-117216' />
+    <nd ref='-117217' />
+    <nd ref='-117218' />
+    <nd ref='-117215' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1921' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1988' />
+  </way>
+  <way id='-116360' action='modify'>
+    <nd ref='-117219' />
+    <nd ref='-117220' />
+    <nd ref='-117221' />
+    <nd ref='-117222' />
+    <nd ref='-117223' />
+    <nd ref='-117224' />
+    <nd ref='-117225' />
+    <nd ref='-117226' />
+    <nd ref='-117227' />
+    <nd ref='-117228' />
+    <nd ref='-117229' />
+    <nd ref='-117230' />
+    <nd ref='-117231' />
+    <nd ref='-117232' />
+    <nd ref='-117233' />
+    <nd ref='-117234' />
+    <nd ref='-117219' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1934' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1998' />
+  </way>
+  <way id='-116361' action='modify'>
+    <nd ref='-117235' />
+    <nd ref='-117236' />
+    <nd ref='-117237' />
+    <nd ref='-117238' />
+    <nd ref='-117239' />
+    <nd ref='-117240' />
+    <nd ref='-117241' />
+    <nd ref='-117242' />
+    <nd ref='-117235' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1966' />
+  </way>
+  <way id='-116362' action='modify'>
+    <nd ref='-117243' />
+    <nd ref='-117244' />
+    <nd ref='-117245' />
+    <nd ref='-117246' />
+    <nd ref='-117247' />
+    <nd ref='-117248' />
+    <nd ref='-117243' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2042' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116363' action='modify'>
+    <nd ref='-117249' />
+    <nd ref='-117250' />
+    <nd ref='-117251' />
+    <nd ref='-117252' />
+    <nd ref='-117249' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2019' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1971' />
+  </way>
+  <way id='-116364' action='modify'>
+    <nd ref='-117253' />
+    <nd ref='-117254' />
+    <nd ref='-117255' />
+    <nd ref='-117256' />
+    <nd ref='-117257' />
+    <nd ref='-117258' />
+    <nd ref='-117259' />
+    <nd ref='-117260' />
+    <nd ref='-117261' />
+    <nd ref='-117262' />
+    <nd ref='-117263' />
+    <nd ref='-117264' />
+    <nd ref='-117265' />
+    <nd ref='-117266' />
+    <nd ref='-117267' />
+    <nd ref='-117268' />
+    <nd ref='-117269' />
+    <nd ref='-117270' />
+    <nd ref='-117271' />
+    <nd ref='-117272' />
+    <nd ref='-117273' />
+    <nd ref='-117274' />
+    <nd ref='-117275' />
+    <nd ref='-117276' />
+    <nd ref='-117277' />
+    <nd ref='-117278' />
+    <nd ref='-117279' />
+    <nd ref='-117280' />
+    <nd ref='-117253' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1836' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='1945' />
+  </way>
+  <way id='-116365' action='modify'>
+    <nd ref='-117281' />
+    <nd ref='-117282' />
+    <nd ref='-117283' />
+    <nd ref='-117284' />
+    <nd ref='-117281' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1974' />
+  </way>
+  <way id='-116366' action='modify'>
+    <nd ref='-117285' />
+    <nd ref='-117286' />
+    <nd ref='-117287' />
+    <nd ref='-117288' />
+    <nd ref='-117289' />
+    <nd ref='-117290' />
+    <nd ref='-117285' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1919' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1988' />
+  </way>
+  <way id='-116367' action='modify'>
+    <nd ref='-117291' />
+    <nd ref='-117292' />
+    <nd ref='-117293' />
+    <nd ref='-117294' />
+    <nd ref='-117295' />
+    <nd ref='-117291' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2017' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116368' action='modify'>
+    <nd ref='-117296' />
+    <nd ref='-117297' />
+    <nd ref='-117298' />
+    <nd ref='-117299' />
+    <nd ref='-117300' />
+    <nd ref='-117301' />
+    <nd ref='-117296' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1822' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116369' action='modify'>
+    <nd ref='-117302' />
+    <nd ref='-117303' />
+    <nd ref='-117304' />
+    <nd ref='-117305' />
+    <nd ref='-117306' />
+    <nd ref='-117307' />
+    <nd ref='-117308' />
+    <nd ref='-117309' />
+    <nd ref='-117302' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2040' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1900' />
+  </way>
+  <way id='-116370' action='modify'>
+    <nd ref='-117310' />
+    <nd ref='-117311' />
+    <nd ref='-117312' />
+    <nd ref='-117313' />
+    <nd ref='-117314' />
+    <nd ref='-117315' />
+    <nd ref='-117310' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1965' />
+  </way>
+  <way id='-116371' action='modify'>
+    <nd ref='-117316' />
+    <nd ref='-117317' />
+    <nd ref='-117318' />
+    <nd ref='-117319' />
+    <nd ref='-117320' />
+    <nd ref='-117321' />
+    <nd ref='-117316' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1917' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1962' />
+  </way>
+  <way id='-116372' action='modify'>
+    <nd ref='-117322' />
+    <nd ref='-117323' />
+    <nd ref='-117324' />
+    <nd ref='-117325' />
+    <nd ref='-117326' />
+    <nd ref='-117327' />
+    <nd ref='-117328' />
+    <nd ref='-117329' />
+    <nd ref='-117322' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1900' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116373' action='modify'>
+    <nd ref='-117330' />
+    <nd ref='-117331' />
+    <nd ref='-117332' />
+    <nd ref='-117333' />
+    <nd ref='-117330' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2015' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1975' />
+  </way>
+  <way id='-116374' action='modify'>
+    <nd ref='-117334' />
+    <nd ref='-117335' />
+    <nd ref='-117336' />
+    <nd ref='-117337' />
+    <nd ref='-117334' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2002' />
+  </way>
+  <way id='-116375' action='modify'>
+    <nd ref='-117338' />
+    <nd ref='-117339' />
+    <nd ref='-117340' />
+    <nd ref='-117341' />
+    <nd ref='-117342' />
+    <nd ref='-117343' />
+    <nd ref='-117338' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1822' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116376' action='modify'>
+    <nd ref='-117344' />
+    <nd ref='-117345' />
+    <nd ref='-117346' />
+    <nd ref='-117347' />
+    <nd ref='-117348' />
+    <nd ref='-117349' />
+    <nd ref='-117350' />
+    <nd ref='-117351' />
+    <nd ref='-117344' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1976' />
+  </way>
+  <way id='-116377' action='modify'>
+    <nd ref='-117352' />
+    <nd ref='-117353' />
+    <nd ref='-117354' />
+    <nd ref='-117355' />
+    <nd ref='-117356' />
+    <nd ref='-117357' />
+    <nd ref='-117358' />
+    <nd ref='-117359' />
+    <nd ref='-117352' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1904' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1999' />
+  </way>
+  <way id='-116378' action='modify'>
+    <nd ref='-117360' />
+    <nd ref='-117361' />
+    <nd ref='-117362' />
+    <nd ref='-117363' />
+    <nd ref='-117360' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116379' action='modify'>
+    <nd ref='-117364' />
+    <nd ref='-117365' />
+    <nd ref='-117366' />
+    <nd ref='-117367' />
+    <nd ref='-117364' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1822' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116380' action='modify'>
+    <nd ref='-117368' />
+    <nd ref='-117369' />
+    <nd ref='-117370' />
+    <nd ref='-117371' />
+    <nd ref='-117372' />
+    <nd ref='-117373' />
+    <nd ref='-117374' />
+    <nd ref='-117375' />
+    <nd ref='-117376' />
+    <nd ref='-117377' />
+    <nd ref='-117378' />
+    <nd ref='-117379' />
+    <nd ref='-117368' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1915' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2014' />
+  </way>
+  <way id='-116381' action='modify'>
+    <nd ref='-117380' />
+    <nd ref='-117381' />
+    <nd ref='-117382' />
+    <nd ref='-117383' />
+    <nd ref='-117380' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1822' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116382' action='modify'>
+    <nd ref='-117384' />
+    <nd ref='-117385' />
+    <nd ref='-117386' />
+    <nd ref='-117387' />
+    <nd ref='-117384' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1906' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='1958' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-116383' action='modify'>
+    <nd ref='-117388' />
+    <nd ref='-117389' />
+    <nd ref='-117390' />
+    <nd ref='-117391' />
+    <nd ref='-117392' />
+    <nd ref='-117393' />
+    <nd ref='-117394' />
+    <nd ref='-117395' />
+    <nd ref='-117396' />
+    <nd ref='-117397' />
+    <nd ref='-117398' />
+    <nd ref='-117399' />
+    <nd ref='-117400' />
+    <nd ref='-117401' />
+    <nd ref='-117402' />
+    <nd ref='-117403' />
+    <nd ref='-117388' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2013' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116384' action='modify'>
+    <nd ref='-117404' />
+    <nd ref='-117405' />
+    <nd ref='-117406' />
+    <nd ref='-117407' />
+    <nd ref='-117404' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1913' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1978' />
+  </way>
+  <way id='-116385' action='modify'>
+    <nd ref='-117408' />
+    <nd ref='-117409' />
+    <nd ref='-117410' />
+    <nd ref='-117411' />
+    <nd ref='-117412' />
+    <nd ref='-117413' />
+    <nd ref='-117408' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Greenville Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='2007' />
+  </way>
+  <way id='-116386' action='modify'>
+    <nd ref='-117414' />
+    <nd ref='-117415' />
+    <nd ref='-117416' />
+    <nd ref='-117417' />
+    <nd ref='-117418' />
+    <nd ref='-117419' />
+    <nd ref='-117420' />
+    <nd ref='-117421' />
+    <nd ref='-117414' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1950' />
+  </way>
+  <way id='-116387' action='modify'>
+    <nd ref='-117422' />
+    <nd ref='-117423' />
+    <nd ref='-117424' />
+    <nd ref='-117425' />
+    <nd ref='-117422' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1824' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1982' />
+  </way>
+  <way id='-116388' action='modify'>
+    <nd ref='-117426' />
+    <nd ref='-117427' />
+    <nd ref='-117428' />
+    <nd ref='-117429' />
+    <nd ref='-117426' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2032' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1977' />
+  </way>
+  <way id='-116389' action='modify'>
+    <nd ref='-117430' />
+    <nd ref='-117431' />
+    <nd ref='-117432' />
+    <nd ref='-117433' />
+    <nd ref='-117430' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2011' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1974' />
+  </way>
+  <way id='-116390' action='modify'>
+    <nd ref='-117434' />
+    <nd ref='-117435' />
+    <nd ref='-117436' />
+    <nd ref='-117437' />
+    <nd ref='-117438' />
+    <nd ref='-117439' />
+    <nd ref='-117440' />
+    <nd ref='-117441' />
+    <nd ref='-117434' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1906' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='1958' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-116391' action='modify'>
+    <nd ref='-117442' />
+    <nd ref='-117443' />
+    <nd ref='-117444' />
+    <nd ref='-117445' />
+    <nd ref='-117446' />
+    <nd ref='-117447' />
+    <nd ref='-117442' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='Charlotte Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116392' action='modify'>
+    <nd ref='-117448' />
+    <nd ref='-117449' />
+    <nd ref='-117450' />
+    <nd ref='-117451' />
+    <nd ref='-117448' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2009' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116393' action='modify'>
+    <nd ref='-117452' />
+    <nd ref='-117453' />
+    <nd ref='-117454' />
+    <nd ref='-117455' />
+    <nd ref='-117456' />
+    <nd ref='-117457' />
+    <nd ref='-117452' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1822' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116394' action='modify'>
+    <nd ref='-117458' />
+    <nd ref='-117459' />
+    <nd ref='-117460' />
+    <nd ref='-117461' />
+    <nd ref='-117458' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1906' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='1958' />
+    <tag k='tourism' v='hotel' />
+  </way>
+  <way id='-116395' action='modify'>
+    <nd ref='-117462' />
+    <nd ref='-117463' />
+    <nd ref='-117464' />
+    <nd ref='-117465' />
+    <nd ref='-117466' />
+    <nd ref='-117467' />
+    <nd ref='-117462' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2030' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116396' action='modify'>
+    <nd ref='-117468' />
+    <nd ref='-117469' />
+    <nd ref='-117470' />
+    <nd ref='-117471' />
+    <nd ref='-117472' />
+    <nd ref='-117473' />
+    <nd ref='-117474' />
+    <nd ref='-117475' />
+    <nd ref='-117476' />
+    <nd ref='-117477' />
+    <nd ref='-117478' />
+    <nd ref='-117479' />
+    <nd ref='-117468' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1911' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1993' />
+  </way>
+  <way id='-116397' action='modify'>
+    <nd ref='-117480' />
+    <nd ref='-117481' />
+    <nd ref='-117482' />
+    <nd ref='-117483' />
+    <nd ref='-117480' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2007' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116398' action='modify'>
+    <nd ref='-117484' />
+    <nd ref='-117485' />
+    <nd ref='-117486' />
+    <nd ref='-117487' />
+    <nd ref='-117484' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1910' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116399' action='modify'>
+    <nd ref='-117488' />
+    <nd ref='-117489' />
+    <nd ref='-117490' />
+    <nd ref='-117491' />
+    <nd ref='-117488' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2028' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1990' />
+  </way>
+  <way id='-116400' action='modify'>
+    <nd ref='-117492' />
+    <nd ref='-117493' />
+    <nd ref='-117494' />
+    <nd ref='-117495' />
+    <nd ref='-117496' />
+    <nd ref='-117497' />
+    <nd ref='-117492' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1822' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='apartments' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116401' action='modify'>
+    <nd ref='-117498' />
+    <nd ref='-117499' />
+    <nd ref='-117500' />
+    <nd ref='-117501' />
+    <nd ref='-117502' />
+    <nd ref='-117503' />
+    <nd ref='-117504' />
+    <nd ref='-117505' />
+    <nd ref='-117498' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='commercial' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116402' action='modify'>
+    <nd ref='-117506' />
+    <nd ref='-117507' />
+    <nd ref='-117508' />
+    <nd ref='-117509' />
+    <nd ref='-117510' />
+    <nd ref='-117511' />
+    <nd ref='-117512' />
+    <nd ref='-117513' />
+    <nd ref='-117506' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1909' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1950' />
+  </way>
+  <way id='-116403' action='modify'>
+    <nd ref='-117514' />
+    <nd ref='-117515' />
+    <nd ref='-117516' />
+    <nd ref='-117517' />
+    <nd ref='-117514' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2005' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1973' />
+  </way>
+  <way id='-116404' action='modify'>
+    <nd ref='-117518' />
+    <nd ref='-117519' />
+    <nd ref='-117520' />
+    <nd ref='-117521' />
+    <nd ref='-117522' />
+    <nd ref='-117523' />
+    <nd ref='-117524' />
+    <nd ref='-117525' />
+    <nd ref='-117526' />
+    <nd ref='-117527' />
+    <nd ref='-117518' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1803' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Croatan Highway' />
+    <tag k='building' v='yes' />
+    <tag k='start_date' v='2004' />
+  </way>
+  <way id='-116405' action='modify'>
+    <nd ref='-117528' />
+    <nd ref='-117529' />
+    <nd ref='-117530' />
+    <nd ref='-117531' />
+    <nd ref='-117528' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2022' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1968' />
+  </way>
+  <way id='-116406' action='modify'>
+    <nd ref='-117532' />
+    <nd ref='-117533' />
+    <nd ref='-117534' />
+    <nd ref='-117535' />
+    <nd ref='-117532' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1907' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1984' />
+  </way>
+  <way id='-116407' action='modify'>
+    <nd ref='-117536' />
+    <nd ref='-117537' />
+    <nd ref='-117538' />
+    <nd ref='-117539' />
+    <nd ref='-117540' />
+    <nd ref='-117541' />
+    <nd ref='-117542' />
+    <nd ref='-117543' />
+    <nd ref='-117536' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2025' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1960' />
+  </way>
+  <way id='-116408' action='modify'>
+    <nd ref='-117544' />
+    <nd ref='-117545' />
+    <nd ref='-117546' />
+    <nd ref='-117547' />
+    <nd ref='-117548' />
+    <nd ref='-117549' />
+    <nd ref='-117544' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1914' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116409' action='modify'>
+    <nd ref='-117550' />
+    <nd ref='-117551' />
+    <nd ref='-117552' />
+    <nd ref='-117553' />
+    <nd ref='-117554' />
+    <nd ref='-117555' />
+    <nd ref='-117550' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2001' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116410' action='modify'>
+    <nd ref='-117556' />
+    <nd ref='-117557' />
+    <nd ref='-117558' />
+    <nd ref='-117559' />
+    <nd ref='-117560' />
+    <nd ref='-117561' />
+    <nd ref='-117562' />
+    <nd ref='-117563' />
+    <nd ref='-117564' />
+    <nd ref='-117565' />
+    <nd ref='-117556' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1958' />
+  </way>
+  <way id='-116411' action='modify'>
+    <nd ref='-117566' />
+    <nd ref='-117567' />
+    <nd ref='-117568' />
+    <nd ref='-117569' />
+    <nd ref='-117570' />
+    <nd ref='-117571' />
+    <nd ref='-117572' />
+    <nd ref='-117573' />
+    <nd ref='-117566' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1821' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116412' action='modify'>
+    <nd ref='-117574' />
+    <nd ref='-117575' />
+    <nd ref='-117576' />
+    <nd ref='-117577' />
+    <nd ref='-117578' />
+    <nd ref='-117579' />
+    <nd ref='-117574' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1905' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1987' />
+  </way>
+  <way id='-116413' action='modify'>
+    <nd ref='-117580' />
+    <nd ref='-117581' />
+    <nd ref='-117582' />
+    <nd ref='-117583' />
+    <nd ref='-117584' />
+    <nd ref='-117585' />
+    <nd ref='-117586' />
+    <nd ref='-117587' />
+    <nd ref='-117588' />
+    <nd ref='-117589' />
+    <nd ref='-117580' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2020' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1954' />
+  </way>
+  <way id='-116414' action='modify'>
+    <nd ref='-117590' />
+    <nd ref='-117591' />
+    <nd ref='-117592' />
+    <nd ref='-117593' />
+    <nd ref='-117594' />
+    <nd ref='-117595' />
+    <nd ref='-117590' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1916' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1990' />
+  </way>
+  <way id='-116415' action='modify'>
+    <nd ref='-117596' />
+    <nd ref='-117597' />
+    <nd ref='-117598' />
+    <nd ref='-117599' />
+    <nd ref='-117596' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='1819' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1986' />
+  </way>
+  <way id='-116416' action='modify'>
+    <nd ref='-117600' />
+    <nd ref='-117601' />
+    <nd ref='-117602' />
+    <nd ref='-117603' />
+    <nd ref='-117604' />
+    <nd ref='-117605' />
+    <nd ref='-117606' />
+    <nd ref='-117607' />
+    <nd ref='-117608' />
+    <nd ref='-117609' />
+    <nd ref='-117600' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2027' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='New Bern Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1994' />
+  </way>
+  <way id='-116417' action='modify'>
+    <nd ref='-117610' />
+    <nd ref='-117611' />
+    <nd ref='-117612' />
+    <nd ref='-117613' />
+    <nd ref='-117614' />
+    <nd ref='-117615' />
+    <nd ref='-117616' />
+    <nd ref='-117617' />
+    <nd ref='-117610' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='2002' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='North Va Dare Trail' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1964' />
+  </way>
+  <way id='-116418' action='modify'>
+    <nd ref='-117618' />
+    <nd ref='-117619' />
+    <nd ref='-117620' />
+    <nd ref='-117621' />
+    <nd ref='-117622' />
+    <nd ref='-117623' />
+    <nd ref='-117618' />
+    <tag k='addr:city' v='Dare County' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:postcode' v='27948' />
+    <tag k='addr:street' v='East Durham Street' />
+    <tag k='building' v='residential' />
+    <tag k='start_date' v='1967' />
+  </way>
+</osm>
